@@ -19,7 +19,8 @@ These repositories focus on data storage, curation, and analysis.
   
   <div style="width: 300px; text-align: center;">
     <a href="https://data-library.esiil.org" target="_blank">
-      <img src="https://via.placeholder.com/300x200" alt="Data Library" style="width:100%; border-radius: 10px;">
+      <img src="https://github.com/CU-ESIIL/home/blob/main/docs/assets/thumbnails/data_library.jpeg?raw=true" 
+           alt="Data Library" style="width:100%; border-radius: 10px;">
     </a>
     <p><strong>Data Library</strong></p>
     <p>Organizational hub for ESIIL datasets.</p>
@@ -28,7 +29,8 @@ These repositories focus on data storage, curation, and analysis.
 
   <div style="width: 300px; text-align: center;">
     <a href="https://analytics-library.esiil.org" target="_blank">
-      <img src="https://via.placeholder.com/300x200" alt="Analytics Library" style="width:100%; border-radius: 10px;">
+      <img src="https://github.com/CU-ESIIL/home/blob/main/docs/assets/thumbnails/analytics_library.jpeg?raw=true" 
+           alt="Analytics Library" style="width:100%; border-radius: 10px;">
     </a>
     <p><strong>Analytics Library</strong></p>
     <p>Repository for data harmonization and analytics.</p>
