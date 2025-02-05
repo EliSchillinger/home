@@ -1,6 +1,6 @@
 ---
 
-# 🌍 Open Analytics and Sythesis Infrastructure for Science
+# 🌍 Open Analytics and Synthesis Infrastructure for Science (OASIS)
 
 Welcome to the **OASIS**, a hub for open analysis and synthesis in environmental data science. This site provides categorized links to **working groups, templates, tools, and resources** that support collaborative and innovative research efforts.
 
