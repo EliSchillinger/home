@@ -7,45 +7,40 @@ Welcome to the **Environmental Data Science Innovation & Inclusion Lab (ESIIL) O
 ---
 ## 📚 Data & Analytics Libraries
 
-<div style="display: flex; flex-direction: column; align-items: flex-start; gap: 20px;">
+<div style="display: flex; flex-wrap: wrap; gap: 20px; justify-content: flex-start;">
 
-  <div style="display: flex; align-items: center; gap: 20px;">
+  <div style="width: 300px; text-align: left;">
     <a href="https://data-library.esiil.org" target="_blank">
       <img src="https://github.com/CU-ESIIL/home/blob/main/docs/assets/thumbnails/data_library.jpeg?raw=true" 
-           alt="Data Library" style="width: 150px; border-radius: 10px;">
+           alt="Data Library" style="width:100%; border-radius: 10px;">
     </a>
-    <div style="font-family: 'Arial', sans-serif; font-size: 16px;">
-      <p><strong style="font-size: 18px;">Data Library</strong></p>
-      <p>Organizational hub for ESIIL datasets.</p>
-      <a href="https://data-library.esiil.org" target="_blank" style="color: #0073e6; font-weight: bold;">🔗 Visit Data Library</a>
-    </div>
+    <p><strong style="font-size: 18px;">Data Library</strong></p>
+    <p>Organizational hub for ESIIL datasets.</p>
+    <a href="https://data-library.esiil.org" target="_blank" style="color: #0073e6; font-weight: bold;">🔗 Visit Data Library</a>
   </div>
 
-  <div style="display: flex; align-items: center; gap: 20px;">
+  <div style="width: 300px; text-align: left;">
     <a href="https://analytics-library.esiil.org" target="_blank">
       <img src="https://github.com/CU-ESIIL/home/blob/main/docs/assets/thumbnails/analytics_library.jpeg?raw=true" 
-           alt="Analytics Library" style="width: 150px; border-radius: 10px;">
+           alt="Analytics Library" style="width:100%; border-radius: 10px;">
     </a>
-    <div style="font-family: 'Arial', sans-serif; font-size: 16px;">
-      <p><strong style="font-size: 18px;">Analytics Library</strong></p>
-      <p>Repository for data harmonization and analytics.</p>
-      <a href="https://analytics-library.esiil.org" target="_blank" style="color: #0073e6; font-weight: bold;">🔗 Visit Analytics Library</a>
-    </div>
+    <p><strong style="font-size: 18px;">Analytics Library</strong></p>
+    <p>Repository for data harmonization and analytics.</p>
+    <a href="https://analytics-library.esiil.org" target="_blank" style="color: #0073e6; font-weight: bold;">🔗 Visit Analytics Library</a>
   </div>
 
-  <div style="display: flex; align-items: center; gap: 20px;">
+  <div style="width: 300px; text-align: left;">
     <a href="https://textbook.esiil.org" target="_blank">
       <img src="https://github.com/CU-ESIIL/home/blob/main/docs/assets/thumbnails/advanced_textbook.jpeg?raw=true" 
-           alt="Advanced Textbook" style="width: 150px; border-radius: 10px;">
+           alt="Advanced Textbook" style="width:100%; border-radius: 10px;">
     </a>
-    <div style="font-family: 'Arial', sans-serif; font-size: 16px;">
-      <p><strong style="font-size: 18px;">Advanced Textbook</strong></p>
-      <p>Comprehensive guide to environmental data science.</p>
-      <a href="https://textbook.esiil.org" target="_blank" style="color: #0073e6; font-weight: bold;">🔗 Read the Textbook</a>
-    </div>
+    <p><strong style="font-size: 18px;">Advanced Textbook</strong></p>
+    <p>Comprehensive guide to environmental data science.</p>
+    <a href="https://textbook.esiil.org" target="_blank" style="color: #0073e6; font-weight: bold;">🔗 Read the Textbook</a>
   </div>
 
 </div>
+
 
 
 ---
