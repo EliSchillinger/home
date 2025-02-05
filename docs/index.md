@@ -16,30 +16,30 @@
 ### 🔬 **Working Groups**  
 ESIIL supports a variety of **environmental science working groups** that use OASIS for research and collaboration.  
 
-- 🌱 [Fungal Dispersal](https://github.com/CU-ESIIL/fungal_dispersal)  
-- 💨 [AI for Natural Methane](https://github.com/CU-ESIIL/AI-for-Natural-Methane)  
+- 🌱 [Fungal Dispersal](https://cu-esiil.github.io/fungal_dispersal/)  
+- 💨 [AI for Natural Methane](https://cu-esiil.github.io/AI-for-Natural-Methane/)  
 - 🌊 [Water Carbon Dynamics](https://github.com/CU-ESIIL/water_carbon_dynamics)  
 
 ### 📄 **Templates & Resources**  
 Use these **OASIS templates** to kickstart new projects!  
 
-- 🏗 [Working Group OASIS](https://github.com/CU-ESIIL/Working_group_OASIS)  
-- 🎓 [Education OASIS](https://github.com/CU-ESIIL/Education_OASIS)  
-- 📊 [Slideshow OASIS](https://github.com/CU-ESIIL/Slideshow_OASIS)  
-- 📝 [Postdoc OASIS](https://github.com/CU-ESIIL/Postdoc_OASIS)  
+- 🏗 [Working Group OASIS](https://cu-esiil.github.io/Working_group_OASIS/)  
+- 🎓 [Education OASIS](https://cu-esiil.github.io/Education_OASIS/)  
+- 📊 [Slideshow OASIS](https://cu-esiil.github.io/Slideshow_OASIS/)  
+- 📝 [Postdoc OASIS](https://cu-esiil.github.io/Postdoc_OASIS/)  
 
 ### 🎓 **Events & Training**  
 ESIIL organizes **innovation summits, hackathons, and training sessions**.  
 
-- 🔥 [Innovation Summit 2025](https://github.com/CU-ESIIL/Innovation-Summit-2025)  
-- 🌳 [Forest Carbon Codefest](https://github.com/CU-ESIIL/forest-carbon-codefest)  
-- 🏕 [Pre-Innovation Summit Training](https://github.com/CU-ESIIL/pre-innovation-summit-training)  
+- 🔥 [Innovation Summit 2025](https://cu-esiil.github.io/Innovation-Summit-2025/)  
+- 🌳 [Forest Carbon Codefest](https://cu-esiil.github.io/forest-carbon-codefest/)  
+- 🏕 [Pre-Innovation Summit Training](https://cu-esiil.github.io/pre-innovation-summit-training/)  
 
 ### 🛠️ **Infrastructure & Tools**  
 These repositories contain **essential tools for environmental data science**.  
 
-- 🗂 [Data Library](https://github.com/CU-ESIIL/data-library)  
-- 📖 [Documentation](https://github.com/CU-ESIIL/documentation)  
+- 🗂 [Data Library](https://cu-esiil.github.io/data-library/)  
+- 📖 [Documentation](https://cu-esiil.github.io/documentation/)  
 - 🖥 [CI Gantt Chart](https://github.com/CU-ESIIL/CI-gantt-chart)  
 
 ---
