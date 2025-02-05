@@ -30,6 +30,31 @@ These repositories house collaborative projects focused on environmental data sc
 | **[Working Group OASIS](https://cu-esiil.github.io/Working_group_OASIS/)** | Central hub for information on ESIIL working groups. | 🔗 Website |
 
 ---
+## 📚 Data & Analytics Libraries
+
+<div style="display: flex; flex-wrap: wrap; gap: 20px; justify-content: center;">
+  
+  <div style="width: 300px; text-align: center;">
+    <a href="https://github.com/CU-ESIIL/data-library" target="_blank">
+      <img src="https://via.placeholder.com/300x200" alt="Data Library" style="width:100%; border-radius: 10px;">
+    </a>
+    <p><strong>Data Library</strong></p>
+    <p>Organizational hub for ESIIL datasets.</p>
+    <a href="https://github.com/CU-ESIIL/data-library" target="_blank">🔗 GitHub</a>
+  </div>
+
+  <div style="width: 300px; text-align: center;">
+    <a href="https://analytics-library.esiil.org/" target="_blank">
+      <img src="https://via.placeholder.com/300x200" alt="Analytics Library" style="width:100%; border-radius: 10px;">
+    </a>
+    <p><strong>Analytics Library</strong></p>
+    <p>Repository for data harmonization and analytics.</p>
+    <a href="https://analytics-library.esiil.org/" target="_blank">🔗 Website</a>
+  </div>
+
+</div>
+
+---
 
 ## 🎓 **Postdoc Research Projects**  
 These repositories represent postdoc-led research initiatives at ESIIL.
