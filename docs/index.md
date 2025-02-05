@@ -37,6 +37,16 @@ These repositories focus on data storage, curation, and analysis.
     <a href="https://analytics-library.esiil.org" target="_blank">🔗 Visit Analytics Library</a>
   </div>
 
+  <div style="width: 300px; text-align: center;">
+    <a href="https://textbook.esiil.org" target="_blank">
+      <img src="https://github.com/CU-ESIIL/home/blob/main/docs/assets/thumbnails/advanced_textbook.jpeg?raw=true" 
+           alt="Advanced Textbook" style="width:100%; border-radius: 10px;">
+    </a>
+    <p><strong>Advanced Textbook</strong></p>
+    <p>Comprehensive guide to environmental data science.</p>
+    <a href="https://textbook.esiil.org" target="_blank">🔗 Read the Textbook</a>
+  </div>
+
 </div>
 
 
