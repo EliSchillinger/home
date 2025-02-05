@@ -23,10 +23,10 @@ ESIIL supports a variety of **environmental science working groups** that use OA
 ### 📄 **Templates & Resources**  
 Use these **OASIS templates** to kickstart new projects!  
 
-- 🏗 [Working Group OASIS](https://cu-esiil.github.io/Working_group_OASIS/)  
-- 🎓 [Education OASIS](https://cu-esiil.github.io/Education_OASIS/)  
-- 📊 [Slideshow OASIS](https://cu-esiil.github.io/Slideshow_OASIS/)  
-- 📝 [Postdoc OASIS](https://cu-esiil.github.io/Postdoc_OASIS/)  
+- 🏗 [Working Group OASIS](https://github.com/CU-ESIIL/Working_group_OASIS) [🔗 Website](https://cu-esiil.github.io/Working_group_OASIS/)  
+- 🎓 [Education OASIS](https://github.com/CU-ESIIL/Education_OASIS) [🔗 Website](https://cu-esiil.github.io/Education_OASIS/)  
+- 📊 [Slideshow OASIS](https://github.com/CU-ESIIL/Slideshow_OASIS) [🔗 Website](https://cu-esiil.github.io/Slideshow_OASIS/)  
+- 📝 [Postdoc OASIS](https://github.com/CU-ESIIL/Postdoc_OASIS) [🔗 Website](https://cu-esiil.github.io/Postdoc_OASIS/)  
 
 ### 🎓 **Events & Training**  
 ESIIL organizes **innovation summits, hackathons, and training sessions**.  
@@ -38,8 +38,8 @@ ESIIL organizes **innovation summits, hackathons, and training sessions**.
 ### 🛠️ **Infrastructure & Tools**  
 These repositories contain **essential tools for environmental data science**.  
 
-- 🗂 [Data Library](https://cu-esiil.github.io/data-library/)  
-- 📖 [Documentation](https://cu-esiil.github.io/documentation/)  
+- 🗂 [Data Library](https://github.com/CU-ESIIL/data-library)  
+- 📖 [Documentation](https://github.com/CU-ESIIL/documentation)  
 - 🖥 [CI Gantt Chart](https://github.com/CU-ESIIL/CI-gantt-chart)  
 
 ---
