@@ -106,16 +106,41 @@ Guides and walkthroughs to help researchers and students learn new tools and tec
 
 ---
 
-## 🛠 **Tools**  
-Essential tools for data science, infrastructure, and workflow automation.
+## 🏗️ **Infrastructure & Tools**  
+Repositories focused on software, data infrastructure, and computational tools.
 
 | Name | Description | Link |
 |------|------------|------|
-| **[Docker](https://github.com/CU-ESIIL/docker)** | Containerized workflows and CI/CD resources. | 🔗 GitHub |
-| **[CyVerse Utilities](https://github.com/CU-ESIIL/cyverse-utils)** | Utilities for working with CyVerse infrastructure. | 🔗 GitHub |
-| **[OASIS Docker Demo](https://cu-esiil.github.io/OASISDockerDemo/)** | Demonstration of Docker integration with OASIS. | 🔗 Website |
-| **[Tundra Shrub Expansion](https://cu-esiil.github.io/tundra_shrub_expansion/)** | Remote sensing and ecosystem modeling tools. | 🔗 Website |
-| **[CyVerse Issues](https://github.com/CU-ESIIL/cyverse-issues)** | Documenting issues on CyVerse. | 🔗 GitHub |
+| **[Docker](https://github.com/CU-ESIIL/docker)** | Private repository for containerized workflows and CI/CD. | 🔗 GitHub |
+| **[CyVerse Utils](https://github.com/CU-ESIIL/cyverse-utils)** | Utilities for working with CyVerse infrastructure. | 🔗 GitHub |
+| **[OASIS Docker Demo](https://cu-esiil.github.io/OASISDockerDemo/)** | Public demonstration of Dockerized workflows. | 🔗 Website |
+| **[Tundra Shrub Expansion](https://cu-esiil.github.io/tundra_shrub_expansion/)** | Remote sensing tools for alpine ecosystems. | 🔗 Website |
+| **[Min Docker Demo](https://cu-esiil.github.io/Min_docker_demo/)** | Minimal demonstration for Docker containers. | 🔗 Website |
+| **[CyVerse Issues](https://github.com/CU-ESIIL/cyverse-issues)** | Documenting known issues in CyVerse workflows. | 🔗 GitHub |
+
+---
+
+
+## 🛠️ **Templates & Reusable Frameworks**  
+Templates to streamline project development and research collaboration.
+
+| Name | Description | Link |
+|------|------------|------|
+| **[Education OASIS](https://cu-esiil.github.io/Education_OASIS/)** | Template for ESIIL education students to create their own OASIS. | 🔗 Website |
+| **[Slideshow OASIS](https://cu-esiil.github.io/Slideshow_OASIS/)** | Basic slideshow template for presentations. | 🔗 Website |
+| **[Postdoc OASIS](https://cu-esiil.github.io/Postdoc_OASIS/)** | Template for postdoc research documentation. | 🔗 Website |
+| **[Base GitHub Pages](https://github.com/CU-ESIIL/base-gh-pages)** | Starter repository for GitHub Pages projects. | 🔗 GitHub |
+
+---
+
+## ❌ **To Be Deleted**  
+These repositories are marked for removal.
+
+| Name | Description | Link |
+|------|------------|------|
+| **[Shannon-Boldt](https://github.com/CU-ESIIL/Shannon-Boldt)** | Private repository, marked for deletion. | 🔗 GitHub |
+| **[Ty Ed Demo](https://cu-esiil.github.io/Ty_ed_demo/)** | One-time use education repository. | 🔗 Website |
+| **[Ty Test](https://cu-esiil.github.io/Ty_test/)** | Single-use education test repository. | 🔗 Website |
 
 ---
 
@@ -174,49 +199,7 @@ This section contains sub-repositories from various events, including the **Inno
 
 ---
 
-# 🌍 ESIIL OASIS - Additional Categories
 
-This section contains repositories that fall under additional categories, including **infrastructure, tools, data libraries, and special projects** that support environmental data science at ESIIL.
-
----
-
-## 🏗️ **Infrastructure & Tools**  
-Repositories focused on software, data infrastructure, and computational tools.
-
-| Name | Description | Link |
-|------|------------|------|
-| **[Docker](https://github.com/CU-ESIIL/docker)** | Private repository for containerized workflows and CI/CD. | 🔗 GitHub |
-| **[CyVerse Utils](https://github.com/CU-ESIIL/cyverse-utils)** | Utilities for working with CyVerse infrastructure. | 🔗 GitHub |
-| **[OASIS Docker Demo](https://cu-esiil.github.io/OASISDockerDemo/)** | Public demonstration of Dockerized workflows. | 🔗 Website |
-| **[Tundra Shrub Expansion](https://cu-esiil.github.io/tundra_shrub_expansion/)** | Remote sensing tools for alpine ecosystems. | 🔗 Website |
-| **[Min Docker Demo](https://cu-esiil.github.io/Min_docker_demo/)** | Minimal demonstration for Docker containers. | 🔗 Website |
-| **[CyVerse Issues](https://github.com/CU-ESIIL/cyverse-issues)** | Documenting known issues in CyVerse workflows. | 🔗 GitHub |
-
----
-
-
-## 🛠️ **Templates & Reusable Frameworks**  
-Templates to streamline project development and research collaboration.
-
-| Name | Description | Link |
-|------|------------|------|
-| **[Education OASIS](https://cu-esiil.github.io/Education_OASIS/)** | Template for ESIIL education students to create their own OASIS. | 🔗 Website |
-| **[Slideshow OASIS](https://cu-esiil.github.io/Slideshow_OASIS/)** | Basic slideshow template for presentations. | 🔗 Website |
-| **[Postdoc OASIS](https://cu-esiil.github.io/Postdoc_OASIS/)** | Template for postdoc research documentation. | 🔗 Website |
-| **[Base GitHub Pages](https://github.com/CU-ESIIL/base-gh-pages)** | Starter repository for GitHub Pages projects. | 🔗 GitHub |
-
----
-
-## ❌ **To Be Deleted**  
-These repositories are marked for removal.
-
-| Name | Description | Link |
-|------|------------|------|
-| **[Shannon-Boldt](https://github.com/CU-ESIIL/Shannon-Boldt)** | Private repository, marked for deletion. | 🔗 GitHub |
-| **[Ty Ed Demo](https://cu-esiil.github.io/Ty_ed_demo/)** | One-time use education repository. | 🔗 Website |
-| **[Ty Test](https://cu-esiil.github.io/Ty_test/)** | Single-use education test repository. | 🔗 Website |
-
----
 
 📧 **Contact**: [esiil-support@cu.edu](mailto:esiil-support@cu.edu)
 
