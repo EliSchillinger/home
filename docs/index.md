@@ -5,7 +5,15 @@
 Welcome to the **Environmental Data Science Innovation & Inclusion Lab (ESIIL) OASIS**, a hub for open analysis and synthesis in environmental data science. This site provides categorized links to **working groups, templates, tools, and resources** that support collaborative and innovative research efforts.
 
 ---
+## 📚 **Data & Analytics Libraries**  
+These repositories focus on data storage, curation, and analysis.
 
+| Name | Description | Link |
+|------|------------|------|
+| **[Data Library](https://github.com/CU-ESIIL/data-library)** | Organizational hub for ESIIL datasets. | 🔗 GitHub |
+| **[Analytics Library](https://analytics-library.esiil.org/)** | Repository for data harmonization and analytics. | 🔗 Website |
+
+---
 ## 🚀 **Working Groups**  
 These repositories house collaborative projects focused on environmental data science challenges.
 
@@ -40,8 +48,178 @@ These repositories represent postdoc-led research initiatives at ESIIL.
 
 ---
 
-### ⏭️ **Next Batch: Research Projects**  
-The next section will include **ongoing research projects** at ESIIL. Stay tuned!
+## 🔬 **Research Projects**  
+These repositories represent broader research efforts contributing to environmental data science.
+
+| Name | Description | Link |
+|------|------------|------|
+| **[SpectralBEF](https://cu-esiil.github.io/spectralBEF/)** | Spectral analysis of biodiversity-ecosystem functioning. | 🔗 Website |
+| **[GEDI-ECOSTRESS Data Project](https://github.com/CU-ESIIL/GEDI-ECOSTRESS_data_project)** | Aligning GEDI and ECOSTRESS datasets for ML applications. | 🔗 GitHub |
+
+---
+
+## 🎟️ **Events & Summits**  
+Major ESIIL-hosted and affiliated events.
+
+| Name | Description | Link |
+|------|------------|------|
+| **[AGU 2023 Innovation Session](https://cu-esiil.github.io/agu-2023_innovation_session/)** | Maximizing Stakeholder Engagement in Open Environmental Data Science. | 🔗 Website |
+| **[Innovation Summit 2025](https://cu-esiil.github.io/Innovation-Summit-2025/)** | Official repository for the ESIIL Innovation Summit 2025. | 🔗 Website |
+| **[FIRE Plan 2024](https://cu-esiil.github.io/FIRE-plan-2024/)** | Planning and strategy for fire management. | 🔗 Website |
+| **[Forest Carbon Codefest](https://cu-esiil.github.io/forest-carbon-codefest/)** | Hands-on coding event for forest carbon research. | 🔗 Website |
+| **[HYR-SENSE](https://cu-esiil.github.io/HYR-SENSE/)** | Remote sensing for environmental justice. | 🔗 Website |
+| **[Innovation Summit 2024](https://cu-esiil.github.io/Innovation-Summit-2024/)** | Official repo for the ESIIL Innovation Summit 2024. | 🔗 Website |
+
+---
+
+## 🏗 **Templates**  
+Pre-built repositories to streamline project setup.
+
+| Name | Description | Link |
+|------|------------|------|
+| **[Education OASIS](https://cu-esiil.github.io/Education_OASIS/)** | Template for ESIIL education students to create their own OASIS. | 🔗 Website |
+| **[Slideshow OASIS](https://cu-esiil.github.io/Slideshow_OASIS/)** | Template for basic slideshow presentations. | 🔗 Website |
+| **[Postdoc OASIS](https://cu-esiil.github.io/Postdoc_OASIS/)** | Template for ESIIL postdocs to set up their own OASIS. | 🔗 Website |
+| **[Base GitHub Pages](https://github.com/CU-ESIIL/base-gh-pages)** | Base repository for building new GitHub pages sites. | 🔗 GitHub |
+
+---
+
+## 🎓 **Teaching Resources**  
+Repositories containing materials for courses, workshops, and tutorials.
+
+| Name | Description | Link |
+|------|------------|------|
+| **[Pre-Innovation Summit Training](https://cu-esiil.github.io/pre-innovation-summit-training/)** | Repository for all things pre-innovation-summit-training. | 🔗 Website |
+| **[EDS Demo](https://cu-esiil.github.io/eds_demo/)** | Example repository for environmental data science education. | 🔗 Website |
+| **[Git & GitHub Fundamentals](https://github.com/CU-ESIIL/git-github-fundamentals-eculler)** | GitHub Classroom-created fundamentals course. | 🔗 GitHub |
+
+---
+
+## 📖 **Tutorials**  
+Guides and walkthroughs to help researchers and students learn new tools and techniques.
+
+| Name | Description | Link |
+|------|------------|------|
+| **[Haskell Data Cube](https://github.com/CU-ESIIL/Haskell-data-cube)** | Creating data cubes with multi-source remote sensing data. | 🔗 GitHub |
+| **[CI/CD Demo](https://github.com/CU-ESIIL/CI_CD_Demo)** | Demonstration repository for continuous integration and deployment. | 🔗 GitHub |
+| **[Haskell API Demo](https://github.com/CU-ESIIL/Haskell-api-demo)** | Sensing the Earth workshop demonstration. | 🔗 GitHub |
+
+---
+
+## 🛠 **Tools**  
+Essential tools for data science, infrastructure, and workflow automation.
+
+| Name | Description | Link |
+|------|------------|------|
+| **[Docker](https://github.com/CU-ESIIL/docker)** | Containerized workflows and CI/CD resources. | 🔗 GitHub |
+| **[CyVerse Utilities](https://github.com/CU-ESIIL/cyverse-utils)** | Utilities for working with CyVerse infrastructure. | 🔗 GitHub |
+| **[OASIS Docker Demo](https://cu-esiil.github.io/OASISDockerDemo/)** | Demonstration of Docker integration with OASIS. | 🔗 Website |
+| **[Tundra Shrub Expansion](https://cu-esiil.github.io/tundra_shrub_expansion/)** | Remote sensing and ecosystem modeling tools. | 🔗 Website |
+| **[CyVerse Issues](https://github.com/CU-ESIIL/cyverse-issues)** | Documenting issues on CyVerse. | 🔗 GitHub |
+
+---
+
+# 🏛️ **Group Sub-Repositories**
+
+This section contains sub-repositories from various events, including the **Innovation Summit, HYR-SENSE, FCC24, and Hackathon 2023**. These repos represent collaborative breakout group projects and associated work.
+
+---
+
+## 🌟 **Innovation Summit 2024 Breakout Groups**
+
+| Name | Description | Link |
+|------|------------|------|
+| **[Innovation-Summit-2024__3](https://github.com/CU-ESIIL/Innovation-Summit-2024__3)** | Breakout group 3 from the Innovation Summit 2024. | 🔗 GitHub |
+| **[Innovation-Summit-2024__4](https://github.com/CU-ESIIL/Innovation-Summit-2024__4)** | Breakout group 4 from the Innovation Summit 2024. | 🔗 GitHub |
+| **[Innovation-Summit-2024__5](https://github.com/CU-ESIIL/Innovation-Summit-2024__5)** | Breakout group 5 from the Innovation Summit 2024. | 🔗 GitHub |
+| **[Innovation-Summit-2024__6](https://github.com/CU-ESIIL/Innovation-Summit-2024__6)** | Breakout group 6 from the Innovation Summit 2024. | 🔗 GitHub |
+
+---
+
+## 🌍 **HYR-SENSE Workshop Group Repositories**
+
+| Name | Description | Link |
+|------|------------|------|
+| **[HYR-SENSE-Alaska](https://github.com/CU-ESIIL/HYR-SENSE-Alaska)** | HYR-SENSE Alaska breakout group. | 🔗 GitHub |
+| **[HYR-SENSE-Tyler](https://github.com/CU-ESIIL/HYR-SENSE-Tyler)** | HYR-SENSE Tyler breakout project. | 🔗 GitHub |
+| **[HYR-SENSE-VTaho](https://github.com/CU-ESIIL/HYR-SENSE-VTaho)** | HYR-SENSE Vermont-Tahoe research group. | 🔗 GitHub |
+| **[HYR-SENSE-MaryB](https://github.com/CU-ESIIL/HYR-SENSE-MaryB)** | HYR-SENSE research led by Mary B. | 🔗 GitHub |
+
+---
+
+## 🔬 **FCC24 Group Repositories**
+
+| Name | Description | Link |
+|------|------------|------|
+| **[FCC24_Group_1](https://github.com/CU-ESIIL/FCC24_Group_1)** | Group 1 from FCC24. | 🔗 GitHub |
+| **[FCC24_Group_2](https://github.com/CU-ESIIL/FCC24_Group_2)** | Group 2 from FCC24. | 🔗 GitHub |
+| **[FCC24_Group_3](https://github.com/CU-ESIIL/FCC24_Group_3)** | Group 3 from FCC24. | 🔗 GitHub |
+| **[FCC24_Group_4](https://github.com/CU-ESIIL/FCC24_Group_4)** | Group 4 from FCC24. | 🔗 GitHub |
+| **[FCC24_Group_5](https://github.com/CU-ESIIL/FCC24_Group_5)** | Group 5 from FCC24. | 🔗 GitHub |
+| **[FCC24_Group_6](https://github.com/CU-ESIIL/FCC24_Group_6)** | Group 6 from FCC24. | 🔗 GitHub |
+
+---
+
+## 🚀 **Hackathon 2023 Group Repositories**
+
+| Name | Description | Link |
+|------|------------|------|
+| **[hackathon2023_A](https://github.com/CU-ESIIL/hackathon2023_A)** | Breakout group A from Hackathon 2023. | 🔗 GitHub |
+| **[hackathon2023_B](https://github.com/CU-ESIIL/hackathon2023_B)** | Breakout group B from Hackathon 2023. | 🔗 GitHub |
+| **[hackathon2023_C](https://github.com/CU-ESIIL/hackathon2023_C)** | Breakout group C from Hackathon 2023. | 🔗 GitHub |
+| **[hackathon2023_D](https://github.com/CU-ESIIL/hackathon2023_D)** | Breakout group D from Hackathon 2023. | 🔗 GitHub |
+| **[hackathon2023_E](https://github.com/CU-ESIIL/hackathon2023_E)** | Breakout group E from Hackathon 2023. | 🔗 GitHub |
+| **[hackathon2023_F](https://github.com/CU-ESIIL/hackathon2023_F)** | Breakout group F from Hackathon 2023. | 🔗 GitHub |
+| **[hackathon2023_G](https://github.com/CU-ESIIL/hackathon2023_G)** | Breakout group G from Hackathon 2023. | 🔗 GitHub |
+
+---
+
+# 🌍 ESIIL OASIS - Additional Categories
+
+This section contains repositories that fall under additional categories, including **infrastructure, tools, data libraries, and special projects** that support environmental data science at ESIIL.
+
+---
+
+## 🏗️ **Infrastructure & Tools**  
+Repositories focused on software, data infrastructure, and computational tools.
+
+| Name | Description | Link |
+|------|------------|------|
+| **[Docker](https://github.com/CU-ESIIL/docker)** | Private repository for containerized workflows and CI/CD. | 🔗 GitHub |
+| **[CyVerse Utils](https://github.com/CU-ESIIL/cyverse-utils)** | Utilities for working with CyVerse infrastructure. | 🔗 GitHub |
+| **[OASIS Docker Demo](https://cu-esiil.github.io/OASISDockerDemo/)** | Public demonstration of Dockerized workflows. | 🔗 Website |
+| **[Tundra Shrub Expansion](https://cu-esiil.github.io/tundra_shrub_expansion/)** | Remote sensing tools for alpine ecosystems. | 🔗 Website |
+| **[Min Docker Demo](https://cu-esiil.github.io/Min_docker_demo/)** | Minimal demonstration for Docker containers. | 🔗 Website |
+| **[CyVerse Issues](https://github.com/CU-ESIIL/cyverse-issues)** | Documenting known issues in CyVerse workflows. | 🔗 GitHub |
+
+---
+
+
+## 🛠️ **Templates & Reusable Frameworks**  
+Templates to streamline project development and research collaboration.
+
+| Name | Description | Link |
+|------|------------|------|
+| **[Education OASIS](https://cu-esiil.github.io/Education_OASIS/)** | Template for ESIIL education students to create their own OASIS. | 🔗 Website |
+| **[Slideshow OASIS](https://cu-esiil.github.io/Slideshow_OASIS/)** | Basic slideshow template for presentations. | 🔗 Website |
+| **[Postdoc OASIS](https://cu-esiil.github.io/Postdoc_OASIS/)** | Template for postdoc research documentation. | 🔗 Website |
+| **[Base GitHub Pages](https://github.com/CU-ESIIL/base-gh-pages)** | Starter repository for GitHub Pages projects. | 🔗 GitHub |
+
+---
+
+## ❌ **To Be Deleted**  
+These repositories are marked for removal.
+
+| Name | Description | Link |
+|------|------------|------|
+| **[Shannon-Boldt](https://github.com/CU-ESIIL/Shannon-Boldt)** | Private repository, marked for deletion. | 🔗 GitHub |
+| **[Ty Ed Demo](https://cu-esiil.github.io/Ty_ed_demo/)** | One-time use education repository. | 🔗 Website |
+| **[Ty Test](https://cu-esiil.github.io/Ty_test/)** | Single-use education test repository. | 🔗 Website |
+
+---
 
 📧 **Contact**: [esiil-support@cu.edu](mailto:esiil-support@cu.edu)
+
+
+
 
