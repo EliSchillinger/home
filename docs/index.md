@@ -377,14 +377,74 @@ Guides and walkthroughs to help researchers and students learn new tools and tec
 ## 🏗️ **CI Infrastructure & Tools**  
 Repositories focused on software, data infrastructure, and computational tools.
 
-| Name | Description | Link |
-|------|------------|------|
-| **[Docker](https://github.com/CU-ESIIL/docker)** | Private repository for containerized workflows and CI/CD. | 🔗 GitHub |
-| **[CyVerse Utils](https://github.com/CU-ESIIL/cyverse-utils)** | Utilities for working with CyVerse infrastructure. | 🔗 GitHub |
-| **[OASIS Docker Demo](https://cu-esiil.github.io/OASISDockerDemo/)** | Public demonstration of Dockerized workflows. | 🔗 Website |
+<div class="template-gallery">
 
-| **[Min Docker Demo](https://cu-esiil.github.io/Min_docker_demo/)** | Minimal demonstration for Docker containers. | 🔗 Website |
-| **[CyVerse Issues](https://github.com/CU-ESIIL/cyverse-issues)** | Documenting known issues in CyVerse workflows. | 🔗 GitHub |
+  <div class="template-item">
+    <a href="https://github.com/CU-ESIIL/docker" target="_blank">
+      <img src="./cyverse_utils.png" alt="Docker">
+    </a>
+    <p><strong>Docker</strong></p>
+    <p>Private repository for containerized workflows and CI/CD.</p>
+    <a href="https://github.com/CU-ESIIL/docker" target="_blank">🔗 Visit</a>
+  </div>
+
+  <div class="template-item">
+    <a href="https://github.com/CU-ESIIL/cyverse-utils" target="_blank">
+      <img src="./cyverse_issues.png" alt="CyVerse Utils">
+    </a>
+    <p><strong>CyVerse Utils</strong></p>
+    <p>Utilities for working with CyVerse infrastructure.</p>
+    <a href="https://github.com/CU-ESIIL/cyverse-utils" target="_blank">🔗 Visit</a>
+  </div>
+
+  <div class="template-item">
+    <a href="https://cu-esiil.github.io/OASISDockerDemo/" target="_blank">
+      <img src="./docker.png" alt="OASIS Docker Demo">
+    </a>
+    <p><strong>OASIS Docker Demo</strong></p>
+    <p>Public demonstration of Dockerized workflows.</p>
+    <a href="https://cu-esiil.github.io/OASISDockerDemo/" target="_blank">🔗 Visit</a>
+  </div>
+
+  <div class="template-item">
+    <a href="https://cu-esiil.github.io/Min_docker_demo/" target="_blank">
+      <img src="./oasis_docker_demo.png" alt="Min Docker Demo">
+    </a>
+    <p><strong>Min Docker Demo</strong></p>
+    <p>Minimal demonstration for Docker containers.</p>
+    <a href="https://cu-esiil.github.io/Min_docker_demo/" target="_blank">🔗 Visit</a>
+  </div>
+
+  <div class="template-item">
+    <a href="https://github.com/CU-ESIIL/cyverse-issues" target="_blank">
+      <img src="./mini_docker_demo.png" alt="CyVerse Issues">
+    </a>
+    <p><strong>CyVerse Issues</strong></p>
+    <p>Documenting known issues in CyVerse workflows.</p>
+    <a href="https://github.com/CU-ESIIL/cyverse-issues" target="_blank">🔗 Visit</a>
+  </div>
+
+</div>
+
+<style>
+  .template-gallery {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(150px, 1fr));
+    gap: 20px;
+    justify-content: center;
+  }
+
+  .template-item {
+    text-align: center;
+  }
+
+  .template-item img {
+    width: 100%;
+    aspect-ratio: 1 / 1;
+    border-radius: 10px;
+    object-fit: cover;
+  }
+</style>
 
 ---
 
