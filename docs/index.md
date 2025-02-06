@@ -161,7 +161,6 @@ Welcome to the **OASIS**, a hub for open analysis and synthesis in environmental
 </style>
 
 ---
-
 ## 🎓 **Postdoc Research Projects**  
 These repositories represent postdoc-led research initiatives at ESIIL.
 
@@ -254,7 +253,7 @@ These repositories represent postdoc-led research initiatives at ESIIL.
   .gallery-item img {
     width: 100%;
     max-width: 150px;
-    border-radius: 50%;
+    border-radius: 10px;
     object-fit: cover;
     height: 150px;
   }
