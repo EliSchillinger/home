@@ -50,14 +50,12 @@ These repositories house collaborative projects focused on environmental data sc
 | Name | Description | Link |
 |------|------------|------|
 | **[BioViewPoint](https://cu-esiil.github.io/BioViewPoint/)** | Visualization tools for biodiversity data. | 🔗 Website |
-| **[Maka-Sitomniya](https://cu-esiil.github.io/Maka-Sitomniya/)** | Research on traditional ecological knowledge. | 🔗 Website |
 | **[Zooplankton Indicator Dataset](https://cu-esiil.github.io/zooplankton_indicator_dataset/)** | Dataset and tools for zooplankton as environmental indicators. | 🔗 Website |
 | **[Extreme Wildfire](https://cu-esiil.github.io/ExtremeWildfire/)** | Investigating extreme wildfire behavior. | 🔗 Website |
 | **[Fungal Dispersal](https://cu-esiil.github.io/fungal_dispersal/)** | ESIIL working group on fungal dispersal. | 🔗 Website |
 | **[AI for Natural Methane](https://cu-esiil.github.io/AI-for-Natural-Methane/)** | Harmonizing natural methane datasets using AI. | 🔗 Website |
 | **[Macrophenology](https://cu-esiil.github.io/macrophenology/)** | Macroecological patterns in phenology. | 🔗 Website |
-| **[WG PI Orientation](https://cu-esiil.github.io/WG_PI_Orientation/)** | Orientation materials for ESIIL working group PIs. | 🔗 Website |
-| **[Working Group OASIS](https://cu-esiil.github.io/Working_group_OASIS/)** | Central hub for information on ESIIL working groups. | 🔗 Website |
+| **[Maka-Sitomniya](https://cu-esiil.github.io/Maka-Sitomniya/)** | Research on traditional ecological knowledge. | 🔗 Website |
 
 
 ---
@@ -112,6 +110,7 @@ Pre-built repositories to streamline project setup.
 | **[Slideshow OASIS](https://cu-esiil.github.io/Slideshow_OASIS/)** | Template for basic slideshow presentations. | 🔗 Website |
 | **[Postdoc OASIS](https://cu-esiil.github.io/Postdoc_OASIS/)** | Template for ESIIL postdocs to set up their own OASIS. | 🔗 Website |
 | **[Base GitHub Pages](https://github.com/CU-ESIIL/base-gh-pages)** | Base repository for building new GitHub pages sites. | 🔗 GitHub |
+| **[Working Group OASIS](https://cu-esiil.github.io/Working_group_OASIS/)** | Central hub for information on ESIIL working groups. | 🔗 Website |
 
 ---
 
@@ -123,6 +122,7 @@ Repositories containing materials for courses, workshops, and tutorials.
 | **[Pre-Innovation Summit Training](https://cu-esiil.github.io/pre-innovation-summit-training/)** | Repository for all things pre-innovation-summit-training. | 🔗 Website |
 | **[EDS Demo](https://cu-esiil.github.io/eds_demo/)** | Example repository for environmental data science education. | 🔗 Website |
 | **[Git & GitHub Fundamentals](https://github.com/CU-ESIIL/git-github-fundamentals-eculler)** | GitHub Classroom-created fundamentals course. | 🔗 GitHub |
+| **[WG PI Orientation](https://cu-esiil.github.io/WG_PI_Orientation/)** | Orientation materials for ESIIL working group PIs. | 🔗 Website |
 
 ---
 
