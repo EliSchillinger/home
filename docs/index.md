@@ -130,7 +130,7 @@ Welcome to the **OASIS**, a hub for open analysis and synthesis in environmental
 
   <div class="gallery-item">
     <a href="https://cu-esiil.github.io/zooplankton_indicator_dataset/" target="_blank">
-      <img src="https://github.com/CU-ESIIL/home/blob/main/docs/assets/thumbnails/Zooplankton.jpeg?raw=true" alt="Zooplankton Indicator Dataset">
+      <img src="https://github.com/CU-ESIIL/home/blob/main/docs/assets/thumbnails/zooplankton.jpeg?raw=true" alt="Zooplankton Indicator Dataset">
     </a>
     <p><strong>Zooplankton Indicator Dataset</strong></p>
     <p>Dataset and tools for zooplankton as environmental indicators.</p>
