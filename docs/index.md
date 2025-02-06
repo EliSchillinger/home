@@ -332,7 +332,7 @@ Templates to streamline project development and research collaboration.
 <style>
   .template-gallery {
     display: grid;
-    grid-template-columns: repeat(5, 1fr);
+    grid-template-columns: repeat(auto-fit, minmax(150px, 1fr));
     gap: 20px;
     justify-content: center;
   }
@@ -343,11 +343,11 @@ Templates to streamline project development and research collaboration.
 
   .template-item img {
     width: 100%;
+    aspect-ratio: 1 / 1;
     border-radius: 10px;
     object-fit: cover;
   }
 </style>
-
 
 ---
 
