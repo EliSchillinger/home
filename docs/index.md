@@ -39,6 +39,18 @@ Welcome to the **OASIS**, a hub for open analysis and synthesis in environmental
 </div>
 
 <style>
+  .gallery-container {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 20px;
+    justify-content: center;
+  }
+
+  .gallery-item {
+    width: calc(100% / 3 - 20px);
+    text-align: center;
+  }
+
   .library-gallery {
     display: flex;
     flex-wrap: wrap;
@@ -47,25 +59,18 @@ Welcome to the **OASIS**, a hub for open analysis and synthesis in environmental
   }
 
   .library-item {
-    width: calc(100% / 1 - 20px); /* Default: 1 per row */
+    width: calc(100% / 3 - 20px);
     text-align: center;
   }
 
-  .library-item img {
+  .gallery-item img, .library-item img {
     width: 100%;
-    max-width: 220px; /* Bigger icons */
+    max-width: 150px;
     border-radius: 10px;
-  }
-
-  @media (min-width: 600px) {
-    .library-item { width: calc(100% / 2 - 20px); } /* 2 per row on tablets */
-  }
-
-  @media (min-width: 1000px) {
-    .library-item { width: calc(100% / 3 - 20px); } /* 3 per row on desktops */
+    object-fit: cover;
+    height: auto;
   }
 </style>
-
 
 
 ---
