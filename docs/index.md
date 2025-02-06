@@ -162,7 +162,7 @@ These repositories represent postdoc-led research initiatives at ESIIL.
     <a href="https://cu-esiil.github.io/Jim-s-Sandbox/" target="_blank">
       <img src="https://github.com/CU-ESIIL/home/blob/main/docs/assets/thumbnails/Jim_sandbox.jpeg?raw=true" alt="Jim's Sandbox">
     </a>
-    <p><strong>Jim's Sandbox</strong></p>
+    <p><strong>Jim's Datacube Sandbox</strong></p>
     <p>Training and practice space for data cubes.</p>
     <a href="https://cu-esiil.github.io/Jim-s-Sandbox/" target="_blank">🔗 Visit</a>
   </div>
@@ -237,6 +237,15 @@ These repositories represent postdoc-led research initiatives at ESIIL.
     <p><strong>SCE Wildfire</strong></p>
     <p>Socioecological impacts of wildfire.</p>
     <a href="https://cu-esiil.github.io/SCE-Wildfire/" target="_blank">🔗 Visit</a>
+  </div>
+
+ <div class="gallery-item">
+    <a href="https://cu-esiil.github.io/tundra_shrub_expansion/" target="_blank">
+      <img src="https://github.com/CU-ESIIL/home/blob/main/docs/assets/thumbnails/tundra_shrub_expansion.jpeg?raw=true" alt="Tundra Shrub Expansion">
+    </a>
+    <p><strong>Tundra Shrub Expansion</strong></p>
+    <p>Remote sensing tools for alpine ecosystems.</p>
+    <a href="https://cu-esiil.github.io/tundra_shrub_expansion/" target="_blank">🔗 Visit</a>
   </div>
 
 </div>
