@@ -51,20 +51,11 @@ Welcome to the **OASIS**, a hub for open analysis and synthesis in environmental
 
   <div style="width: 200px; text-align: center;">
     <a href="https://cu-esiil.github.io/BioViewPoint/" target="_blank">
-      <img src="https://github.com/CU-ESIIL/home/blob/main/docs/assets/thumbnails/bioviewpoint.jpeg" alt="BioViewPoint" style="width:100%; border-radius: 10px;">
+      <img src="https://github.com/CU-ESIIL/home/blob/main/docs/assets/thumbnails/BioViewPoint.jpeg" alt="BioViewPoint" style="width:100%; border-radius: 10px;">
     </a>
     <p><strong>BioViewPoint</strong></p>
     <p>Visualization tools for biodiversity data.</p>
     <a href="https://cu-esiil.github.io/BioViewPoint/" target="_blank">🔗 Visit</a>
-  </div>
-
-  <div style="width: 200px; text-align: center;">
-    <a href="https://cu-esiil.github.io/zooplankton_indicator_dataset/" target="_blank">
-      <img src="https://github.com/CU-ESIIL/home/blob/main/docs/assets/thumbnails/zooplankton.jpeg" alt="Zooplankton Indicator Dataset" style="width:100%; border-radius: 10px;">
-    </a>
-    <p><strong>Zooplankton Indicator Dataset</strong></p>
-    <p>Dataset and tools for zooplankton as environmental indicators.</p>
-    <a href="https://cu-esiil.github.io/zooplankton_indicator_dataset/" target="_blank">🔗 Visit</a>
   </div>
 
   <div style="width: 200px; text-align: center;">
@@ -86,15 +77,6 @@ Welcome to the **OASIS**, a hub for open analysis and synthesis in environmental
   </div>
 
   <div style="width: 200px; text-align: center;">
-    <a href="https://cu-esiil.github.io/AI-for-Natural-Methane/" target="_blank">
-      <img src="https://github.com/CU-ESIIL/home/blob/main/docs/assets/thumbnails/ai_methane.jpeg" alt="AI for Natural Methane" style="width:100%; border-radius: 10px;">
-    </a>
-    <p><strong>AI for Natural Methane</strong></p>
-    <p>Harmonizing natural methane datasets using AI.</p>
-    <a href="https://cu-esiil.github.io/AI-for-Natural-Methane/" target="_blank">🔗 Visit</a>
-  </div>
-
-  <div style="width: 200px; text-align: center;">
     <a href="https://cu-esiil.github.io/macrophenology/" target="_blank">
       <img src="https://github.com/CU-ESIIL/home/blob/main/docs/assets/thumbnails/macrophenology.jpeg" alt="Macrophenology" style="width:100%; border-radius: 10px;">
     </a>
@@ -104,15 +86,34 @@ Welcome to the **OASIS**, a hub for open analysis and synthesis in environmental
   </div>
 
   <div style="width: 200px; text-align: center;">
-    <a href="https://cu-esiil.github.io/Maka-Sitomniya/" target="_blank">
+    <a href="https://cu-esiil.github.io/maka_sitomniya/" target="_blank">
       <img src="https://github.com/CU-ESIIL/home/blob/main/docs/assets/thumbnails/maka_sitomniya.jpeg" alt="Maka-Sitomniya" style="width:100%; border-radius: 10px;">
     </a>
     <p><strong>Maka-Sitomniya</strong></p>
     <p>Research on traditional ecological knowledge.</p>
-    <a href="https://cu-esiil.github.io/Maka-Sitomniya/" target="_blank">🔗 Visit</a>
+    <a href="https://cu-esiil.github.io/maka_sitomniya/" target="_blank">🔗 Visit</a>
+  </div>
+
+  <div style="width: 200px; text-align: center;">
+    <a href="https://cu-esiil.github.io/AI-for-Natural-Methane/" target="_blank">
+      <img src="https://github.com/CU-ESIIL/home/blob/main/docs/assets/thumbnails/natural_methane.jpeg" alt="AI for Natural Methane" style="width:100%; border-radius: 10px;">
+    </a>
+    <p><strong>AI for Natural Methane</strong></p>
+    <p>Harmonizing natural methane datasets using AI.</p>
+    <a href="https://cu-esiil.github.io/AI-for-Natural-Methane/" target="_blank">🔗 Visit</a>
+  </div>
+
+  <div style="width: 200px; text-align: center;">
+    <a href="https://cu-esiil.github.io/zooplankton_indicator_dataset/" target="_blank">
+      <img src="https://github.com/CU-ESIIL/home/blob/main/docs/assets/thumbnails/Zooplankton.jpeg" alt="Zooplankton Indicator Dataset" style="width:100%; border-radius: 10px;">
+    </a>
+    <p><strong>Zooplankton Indicator Dataset</strong></p>
+    <p>Dataset and tools for zooplankton as environmental indicators.</p>
+    <a href="https://cu-esiil.github.io/zooplankton_indicator_dataset/" target="_blank">🔗 Visit</a>
   </div>
 
 </div>
+
 
 ---
 
