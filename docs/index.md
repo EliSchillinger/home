@@ -212,6 +212,24 @@ These repositories represent postdoc-led research initiatives at ESIIL.
     <a href="https://cu-esiil.github.io/Team-Science/" target="_blank">🔗 Visit</a>
   </div>
 
+  <div class="gallery-item">
+    <a href="https://github.com/CU-ESIIL/opt-decision-making" target="_blank">
+      <img src="https://github.com/CU-ESIIL/home/blob/main/docs/assets/thumbnails/opt_decision_making.jpeg?raw=true" alt="Opt Decision Making">
+    </a>
+    <p><strong>Opt Decision Making</strong></p>
+    <p>Optimization and decision science.</p>
+    <a href="https://github.com/CU-ESIIL/opt-decision-making" target="_blank">🔗 Visit</a>
+  </div>
+
+  <div class="gallery-item">
+    <a href="https://cu-esiil.github.io/water_carbon_management/" target="_blank">
+      <img src="https://github.com/CU-ESIIL/home/blob/main/docs/assets/thumbnails/water_carbon_dynamics.jpeg?raw=true" alt="Water Carbon Dynamics">
+    </a>
+    <p><strong>Water Carbon Dynamics</strong></p>
+    <p>Investigating water-carbon interactions.</p>
+    <a href="https://cu-esiil.github.io/water_carbon_management/" target="_blank">🔗 Visit</a>
+  </div>
+
 </div>
 
 <style>
@@ -236,6 +254,7 @@ These repositories represent postdoc-led research initiatives at ESIIL.
     .gallery-item { width: calc(100% / 7 - 20px); } /* Seven per row on desktops */
   }
 </style>
+
 ---
 
 ## 🔬 **Research Projects**  
