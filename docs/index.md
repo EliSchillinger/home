@@ -39,18 +39,6 @@ Welcome to the **OASIS**, a hub for open analysis and synthesis in environmental
 </div>
 
 <style>
-  .gallery-container {
-    display: flex;
-    flex-wrap: wrap;
-    gap: 20px;
-    justify-content: center;
-  }
-
-  .gallery-item {
-    width: calc(100% / 3 - 20px);
-    text-align: center;
-  }
-
   .library-gallery {
     display: flex;
     flex-wrap: wrap;
@@ -63,15 +51,14 @@ Welcome to the **OASIS**, a hub for open analysis and synthesis in environmental
     text-align: center;
   }
 
-  .gallery-item img, .library-item img {
+  .library-item img {
     width: 100%;
-    max-width: 150px;
+    max-width: none;
     border-radius: 10px;
     object-fit: cover;
     height: auto;
   }
 </style>
-
 
 ---
 
