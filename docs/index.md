@@ -162,7 +162,7 @@ These repositories represent postdoc-led research initiatives at ESIIL.
     <a href="https://cu-esiil.github.io/Jim-s-Sandbox/" target="_blank">
       <img src="https://github.com/CU-ESIIL/home/blob/main/docs/assets/thumbnails/Jim_sandbox.jpeg?raw=true" alt="Jim's Sandbox">
     </a>
-    <p><strong>Jim's Datacube Sandbox</strong></p>
+    <p><strong>Datacube Sandbox</strong></p>
     <p>Training and practice space for data cubes.</p>
     <a href="https://cu-esiil.github.io/Jim-s-Sandbox/" target="_blank">🔗 Visit</a>
   </div>
