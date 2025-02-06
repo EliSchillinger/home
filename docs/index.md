@@ -276,14 +276,83 @@ These repositories represent broader research efforts contributing to environmen
 ## 🎟️ **Events & Summits**  
 Major ESIIL-hosted and affiliated events.
 
-| Name | Description | Link |
-|------|------------|------|
-| **[AGU 2023 Innovation Session](https://cu-esiil.github.io/agu-2023_innovation_session/)** | Maximizing Stakeholder Engagement in Open Environmental Data Science. | 🔗 Website |
-| **[Innovation Summit 2025](https://cu-esiil.github.io/Innovation-Summit-2025/)** | Official repository for the ESIIL Innovation Summit 2025. | 🔗 Website |
-| **[FIRE Plan 2024](https://cu-esiil.github.io/FIRE-plan-2024/)** | Planning and strategy for fire management. | 🔗 Website |
-| **[Forest Carbon Codefest](https://cu-esiil.github.io/forest-carbon-codefest/)** | Hands-on coding event for forest carbon research. | 🔗 Website |
-| **[HYR-SENSE](https://cu-esiil.github.io/HYR-SENSE/)** | Remote sensing for environmental justice. | 🔗 Website |
-| **[Innovation Summit 2024](https://cu-esiil.github.io/Innovation-Summit-2024/)** | Official repo for the ESIIL Innovation Summit 2024. | 🔗 Website |
+<div class="template-gallery">
+
+  <div class="template-item">
+    <a href="https://cu-esiil.github.io/agu-2023_innovation_session/" target="_blank">
+      <img src="https://github.com/CU-ESIIL/home/blob/main/docs/assets/thumbnails/AGU_innovation_summit.jpeg?raw=true" alt="AGU 2023 Innovation Session">
+    </a>
+    <p><strong>AGU 2023 Innovation Session</strong></p>
+    <p>Maximizing Stakeholder Engagement in Open Environmental Data Science.</p>
+    <a href="https://cu-esiil.github.io/agu-2023_innovation_session/" target="_blank">🔗 Visit</a>
+  </div>
+
+  <div class="template-item">
+    <a href="https://cu-esiil.github.io/Innovation-Summit-2025/" target="_blank">
+      <img src="https://github.com/CU-ESIIL/home/blob/main/docs/assets/thumbnails/innovation_summit_2025.jpeg?raw=true" alt="Innovation Summit 2025">
+    </a>
+    <p><strong>Innovation Summit 2025</strong></p>
+    <p>Official repository for the ESIIL Innovation Summit 2025.</p>
+    <a href="https://cu-esiil.github.io/Innovation-Summit-2025/" target="_blank">🔗 Visit</a>
+  </div>
+
+  <div class="template-item">
+    <a href="https://cu-esiil.github.io/FIRE-plan-2024/" target="_blank">
+      <img src="https://github.com/CU-ESIIL/home/blob/main/docs/assets/thumbnails/fire_plan.jpeg?raw=true" alt="FIRE Plan 2024">
+    </a>
+    <p><strong>FIRE Plan 2024</strong></p>
+    <p>Planning and strategy for fire management.</p>
+    <a href="https://cu-esiil.github.io/FIRE-plan-2024/" target="_blank">🔗 Visit</a>
+  </div>
+
+  <div class="template-item">
+    <a href="https://cu-esiil.github.io/forest-carbon-codefest/" target="_blank">
+      <img src="https://github.com/CU-ESIIL/home/blob/main/docs/assets/thumbnails/FCC.jpeg?raw=true" alt="Forest Carbon Codefest">
+    </a>
+    <p><strong>Forest Carbon Codefest</strong></p>
+    <p>Hands-on coding event for forest carbon research.</p>
+    <a href="https://cu-esiil.github.io/forest-carbon-codefest/" target="_blank">🔗 Visit</a>
+  </div>
+
+  <div class="template-item">
+    <a href="https://cu-esiil.github.io/HYR-SENSE/" target="_blank">
+      <img src="https://github.com/CU-ESIIL/home/blob/main/docs/assets/thumbnails/hyr-sense.jpeg?raw=true" alt="HYR-SENSE">
+    </a>
+    <p><strong>HYR-SENSE</strong></p>
+    <p>Remote sensing for environmental justice.</p>
+    <a href="https://cu-esiil.github.io/HYR-SENSE/" target="_blank">🔗 Visit</a>
+  </div>
+
+  <div class="template-item">
+    <a href="https://cu-esiil.github.io/Innovation-Summit-2024/" target="_blank">
+      <img src="https://github.com/CU-ESIIL/home/blob/main/docs/assets/thumbnails/innovation_summit_2024.jpeg?raw=true" alt="Innovation Summit 2024">
+    </a>
+    <p><strong>Innovation Summit 2024</strong></p>
+    <p>Official repo for the ESIIL Innovation Summit 2024.</p>
+    <a href="https://cu-esiil.github.io/Innovation-Summit-2024/" target="_blank">🔗 Visit</a>
+  </div>
+
+</div>
+
+<style>
+  .template-gallery {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(150px, 1fr));
+    gap: 20px;
+    justify-content: center;
+  }
+
+  .template-item {
+    text-align: center;
+  }
+
+  .template-item img {
+    width: 100%;
+    aspect-ratio: 1 / 1;
+    border-radius: 10px;
+    object-fit: cover;
+  }
+</style>
 
 ---
 
