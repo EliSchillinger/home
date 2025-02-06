@@ -230,28 +230,33 @@ These repositories represent postdoc-led research initiatives at ESIIL.
     <a href="https://cu-esiil.github.io/water_carbon_management/" target="_blank">🔗 Visit</a>
   </div>
 
+  <div class="gallery-item">
+    <a href="https://cu-esiil.github.io/CulturalES_WildfireRx/" target="_blank">
+      <img src="https://github.com/CU-ESIIL/home/blob/main/docs/assets/thumbnails/cultural_wildfire_Rx.jpeg?raw=true" alt="Cultural ES WildfireRx">
+    </a>
+    <p><strong>Cultural ES WildfireRx</strong></p>
+    <p>Wildfire effects on cultural ecosystem services.</p>
+    <a href="https://cu-esiil.github.io/CulturalES_WildfireRx/" target="_blank">🔗 Visit</a>
+  </div>
+
+  <div class="gallery-item">
+    <a href="https://cu-esiil.github.io/SCE-Wildfire/" target="_blank">
+      <img src="https://github.com/CU-ESIIL/home/blob/main/docs/assets/thumbnails/SCE_wildfire.jpeg?raw=true" alt="SCE Wildfire">
+    </a>
+    <p><strong>SCE Wildfire</strong></p>
+    <p>Socioecological impacts of wildfire.</p>
+    <a href="https://cu-esiil.github.io/SCE-Wildfire/" target="_blank">🔗 Visit</a>
+  </div>
+
 </div>
 
 <style>
-  .gallery-item {
-    width: calc(100% / 2 - 20px); /* Two per row on small screens */
-    text-align: center;
-  }
-
   .gallery-item img {
     width: 100%;
-    max-width: 150px; /* Ensures uniform icon size */
+    max-width: 150px;
     border-radius: 50%;
     object-fit: cover;
     height: 150px;
-  }
-
-  @media (min-width: 600px) {
-    .gallery-item { width: calc(100% / 4 - 20px); } /* Four per row on tablets */
-  }
-
-  @media (min-width: 1000px) {
-    .gallery-item { width: calc(100% / 7 - 20px); } /* Seven per row on desktops */
   }
 </style>
 
