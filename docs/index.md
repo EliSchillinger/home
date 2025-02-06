@@ -51,7 +51,7 @@ Welcome to the **OASIS**, a hub for open analysis and synthesis in environmental
 
   <div style="width: 200px; text-align: center;">
     <a href="https://cu-esiil.github.io/BioViewPoint/" target="_blank">
-      <img src="https://github.com/CU-ESIIL/home/blob/main/docs/assets/thumbnails/bioviewpoint.png" alt="BioViewPoint" style="width:100%; border-radius: 10px;">
+      <img src="https://github.com/CU-ESIIL/home/blob/main/docs/assets/thumbnails/bioviewpoint.jpeg" alt="BioViewPoint" style="width:100%; border-radius: 10px;">
     </a>
     <p><strong>BioViewPoint</strong></p>
     <p>Visualization tools for biodiversity data.</p>
@@ -60,7 +60,7 @@ Welcome to the **OASIS**, a hub for open analysis and synthesis in environmental
 
   <div style="width: 200px; text-align: center;">
     <a href="https://cu-esiil.github.io/zooplankton_indicator_dataset/" target="_blank">
-      <img src="https://github.com/CU-ESIIL/home/blob/main/docs/assets/thumbnails/zooplankton.png" alt="Zooplankton Indicator Dataset" style="width:100%; border-radius: 10px;">
+      <img src="https://github.com/CU-ESIIL/home/blob/main/docs/assets/thumbnails/zooplankton.jpeg" alt="Zooplankton Indicator Dataset" style="width:100%; border-radius: 10px;">
     </a>
     <p><strong>Zooplankton Indicator Dataset</strong></p>
     <p>Dataset and tools for zooplankton as environmental indicators.</p>
@@ -69,7 +69,7 @@ Welcome to the **OASIS**, a hub for open analysis and synthesis in environmental
 
   <div style="width: 200px; text-align: center;">
     <a href="https://cu-esiil.github.io/ExtremeWildfire/" target="_blank">
-      <img src="https://github.com/CU-ESIIL/home/blob/main/docs/assets/thumbnails/extreme_wildfire.png" alt="Extreme Wildfire" style="width:100%; border-radius: 10px;">
+      <img src="https://github.com/CU-ESIIL/home/blob/main/docs/assets/thumbnails/extreme_wildfire.jpeg" alt="Extreme Wildfire" style="width:100%; border-radius: 10px;">
     </a>
     <p><strong>Extreme Wildfire</strong></p>
     <p>Investigating extreme wildfire behavior.</p>
@@ -78,7 +78,7 @@ Welcome to the **OASIS**, a hub for open analysis and synthesis in environmental
 
   <div style="width: 200px; text-align: center;">
     <a href="https://cu-esiil.github.io/fungal_dispersal/" target="_blank">
-      <img src="https://github.com/CU-ESIIL/home/blob/main/docs/assets/thumbnails/fungal_dispersal.png" alt="Fungal Dispersal" style="width:100%; border-radius: 10px;">
+      <img src="https://github.com/CU-ESIIL/home/blob/main/docs/assets/thumbnails/fungal_dispersal.jpeg" alt="Fungal Dispersal" style="width:100%; border-radius: 10px;">
     </a>
     <p><strong>Fungal Dispersal</strong></p>
     <p>ESIIL working group on fungal dispersal.</p>
@@ -87,7 +87,7 @@ Welcome to the **OASIS**, a hub for open analysis and synthesis in environmental
 
   <div style="width: 200px; text-align: center;">
     <a href="https://cu-esiil.github.io/AI-for-Natural-Methane/" target="_blank">
-      <img src="https://github.com/CU-ESIIL/home/blob/main/docs/assets/thumbnails/ai_methane.png" alt="AI for Natural Methane" style="width:100%; border-radius: 10px;">
+      <img src="https://github.com/CU-ESIIL/home/blob/main/docs/assets/thumbnails/ai_methane.jpeg" alt="AI for Natural Methane" style="width:100%; border-radius: 10px;">
     </a>
     <p><strong>AI for Natural Methane</strong></p>
     <p>Harmonizing natural methane datasets using AI.</p>
@@ -96,7 +96,7 @@ Welcome to the **OASIS**, a hub for open analysis and synthesis in environmental
 
   <div style="width: 200px; text-align: center;">
     <a href="https://cu-esiil.github.io/macrophenology/" target="_blank">
-      <img src="https://github.com/CU-ESIIL/home/blob/main/docs/assets/thumbnails/macrophenology.png" alt="Macrophenology" style="width:100%; border-radius: 10px;">
+      <img src="https://github.com/CU-ESIIL/home/blob/main/docs/assets/thumbnails/macrophenology.jpeg" alt="Macrophenology" style="width:100%; border-radius: 10px;">
     </a>
     <p><strong>Macrophenology</strong></p>
     <p>Macroecological patterns in phenology.</p>
@@ -105,7 +105,7 @@ Welcome to the **OASIS**, a hub for open analysis and synthesis in environmental
 
   <div style="width: 200px; text-align: center;">
     <a href="https://cu-esiil.github.io/Maka-Sitomniya/" target="_blank">
-      <img src="https://github.com/CU-ESIIL/home/blob/main/docs/assets/thumbnails/maka_sitomniya.png" alt="Maka-Sitomniya" style="width:100%; border-radius: 10px;">
+      <img src="https://github.com/CU-ESIIL/home/blob/main/docs/assets/thumbnails/maka_sitomniya.jpeg" alt="Maka-Sitomniya" style="width:100%; border-radius: 10px;">
     </a>
     <p><strong>Maka-Sitomniya</strong></p>
     <p>Research on traditional ecological knowledge.</p>
@@ -113,6 +113,7 @@ Welcome to the **OASIS**, a hub for open analysis and synthesis in environmental
   </div>
 
 </div>
+
 ---
 
 ## 🚀 **Working Groups**  
