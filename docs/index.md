@@ -213,32 +213,13 @@ These repositories represent postdoc-led research initiatives at ESIIL.
   </div>
 
   <div class="gallery-item">
-    <a href="https://cu-esiil.github.io/water_carbon_management/" target="_blank">
-      <img src="https://github.com/CU-ESIIL/home/blob/main/docs/assets/thumbnails/water_carbon_dynamics.jpeg?raw=true" alt="Water Carbon Dynamics">
+    <a href="https://cu-esiil.github.io/tundra_shrub_expansion/" target="_blank">
+      <img src="https://github.com/CU-ESIIL/home/blob/main/docs/assets/thumbnails/tundra_shrub_expansion.jpeg?raw=true" alt="Tundra Shrub Expansion">
     </a>
-    <p><strong>Water Carbon Dynamics</strong></p>
-    <p>Investigating water-carbon interactions.</p>
-    <a href="https://cu-esiil.github.io/water_carbon_management/" target="_blank">🔗 Visit</a>
+    <p><strong>Tundra Shrub Expansion</strong></p>
+    <p>Remote sensing tools for alpine ecosystems.</p>
+    <a href="https://cu-esiil.github.io/tundra_shrub_expansion/" target="_blank">🔗 Visit</a>
   </div>
-
-  <div class="gallery-item">
-    <a href="https://cu-esiil.github.io/CulturalES_WildfireRx/" target="_blank">
-      <img src="https://github.com/CU-ESIIL/home/blob/main/docs/assets/thumbnails/cultural_wildfire_Rx.jpeg?raw=true" alt="Cultural ES WildfireRx">
-    </a>
-    <p><strong>Cultural ES WildfireRx</strong></p>
-    <p>Wildfire effects on cultural ecosystem services.</p>
-    <a href="https://cu-esiil.github.io/CulturalES_WildfireRx/" target="_blank">🔗 Visit</a>
-  </div>
-
-  <div class="gallery-item">
-    <a href="https://cu-esiil.github.io/SCE-Wildfire/" target="_blank">
-      <img src="https://github.com/CU-ESIIL/home/blob/main/docs/assets/thumbnails/SCE_wildfire.jpeg?raw=true" alt="SCE Wildfire">
-    </a>
-    <p><strong>SCE Wildfire</strong></p>
-    <p>Socioecological impacts of wildfire.</p>
-    <a href="https://cu-esiil.github.io/SCE-Wildfire/" target="_blank">🔗 Visit</a>
-  </div>
-
 </div>
 
 <style>
@@ -372,7 +353,7 @@ Repositories focused on software, data infrastructure, and computational tools.
 | **[Docker](https://github.com/CU-ESIIL/docker)** | Private repository for containerized workflows and CI/CD. | 🔗 GitHub |
 | **[CyVerse Utils](https://github.com/CU-ESIIL/cyverse-utils)** | Utilities for working with CyVerse infrastructure. | 🔗 GitHub |
 | **[OASIS Docker Demo](https://cu-esiil.github.io/OASISDockerDemo/)** | Public demonstration of Dockerized workflows. | 🔗 Website |
-| **[Tundra Shrub Expansion](https://cu-esiil.github.io/tundra_shrub_expansion/)** | Remote sensing tools for alpine ecosystems. | 🔗 Website |
+
 | **[Min Docker Demo](https://cu-esiil.github.io/Min_docker_demo/)** | Minimal demonstration for Docker containers. | 🔗 Website |
 | **[CyVerse Issues](https://github.com/CU-ESIIL/cyverse-issues)** | Documenting known issues in CyVerse workflows. | 🔗 GitHub |
 
