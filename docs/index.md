@@ -331,23 +331,20 @@ Templates to streamline project development and research collaboration.
 
 <style>
   .template-gallery {
-    display: flex;
-    flex-wrap: wrap;
+    display: grid;
+    grid-template-columns: repeat(5, 1fr);
     gap: 20px;
     justify-content: center;
   }
 
   .template-item {
-    width: calc(100% / 5 - 20px);
     text-align: center;
   }
 
   .template-item img {
     width: 100%;
-    max-width: none;
     border-radius: 10px;
     object-fit: cover;
-    height: auto;
   }
 </style>
 
