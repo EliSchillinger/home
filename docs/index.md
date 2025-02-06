@@ -7,39 +7,64 @@ Welcome to the **OASIS**, a hub for open analysis and synthesis in environmental
 ---
 ## 📚 Data & Analytics Libraries
 
-<div style="display: flex; flex-wrap: wrap; gap: 20px; justify-content: flex-start;">
+<div class="library-gallery">
 
-  <div style="width: 300px; text-align: left;">
+  <div class="library-item">
     <a href="https://data-library.esiil.org" target="_blank">
-      <img src="https://github.com/CU-ESIIL/home/blob/main/docs/assets/thumbnails/data_library.jpeg?raw=true" 
-           alt="Data Library" style="width:100%; border-radius: 10px;">
+      <img src="https://github.com/CU-ESIIL/home/blob/main/docs/assets/thumbnails/data_library.jpeg?raw=true" alt="Data Library">
     </a>
-    <p><strong style="font-size: 18px;">Data Library</strong></p>
+    <p><strong>Data Library</strong></p>
     <p>Organizational hub for ESIIL datasets.</p>
-    <a href="https://data-library.esiil.org" target="_blank" style="color: #0073e6; font-weight: bold;">🔗 Visit Data Library</a>
+    <a href="https://data-library.esiil.org" target="_blank">🔗 Visit Data Library</a>
   </div>
 
-  <div style="width: 300px; text-align: left;">
+  <div class="library-item">
     <a href="https://analytics-library.esiil.org" target="_blank">
-      <img src="https://github.com/CU-ESIIL/home/blob/main/docs/assets/thumbnails/analytics_library.jpeg?raw=true" 
-           alt="Analytics Library" style="width:100%; border-radius: 10px;">
+      <img src="https://github.com/CU-ESIIL/home/blob/main/docs/assets/thumbnails/analytics_library.jpeg?raw=true" alt="Analytics Library">
     </a>
-    <p><strong style="font-size: 18px;">Analytics Library</strong></p>
+    <p><strong>Analytics Library</strong></p>
     <p>Repository for data harmonization and analytics.</p>
-    <a href="https://analytics-library.esiil.org" target="_blank" style="color: #0073e6; font-weight: bold;">🔗 Visit Analytics Library</a>
+    <a href="https://analytics-library.esiil.org" target="_blank">🔗 Visit Analytics Library</a>
   </div>
 
-  <div style="width: 300px; text-align: left;">
+  <div class="library-item">
     <a href="https://textbook.esiil.org" target="_blank">
-      <img src="https://github.com/CU-ESIIL/home/blob/main/docs/assets/thumbnails/advanced_textbook.jpeg?raw=true" 
-           alt="Advanced Textbook" style="width:100%; border-radius: 10px;">
+      <img src="https://github.com/CU-ESIIL/home/blob/main/docs/assets/thumbnails/advanced_textbook.jpeg?raw=true" alt="Advanced Textbook">
     </a>
-    <p><strong style="font-size: 18px;">Advanced Textbook</strong></p>
+    <p><strong>Advanced Textbook</strong></p>
     <p>Comprehensive guide to environmental data science.</p>
-    <a href="https://textbook.esiil.org" target="_blank" style="color: #0073e6; font-weight: bold;">🔗 Read the Textbook</a>
+    <a href="https://textbook.esiil.org" target="_blank">🔗 Read the Textbook</a>
   </div>
 
 </div>
+
+<style>
+  .library-gallery {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 20px;
+    justify-content: center;
+  }
+
+  .library-item {
+    width: calc(100% / 1 - 20px); /* Default: 1 per row */
+    text-align: center;
+  }
+
+  .library-item img {
+    width: 100%;
+    max-width: 220px; /* Bigger icons */
+    border-radius: 10px;
+  }
+
+  @media (min-width: 600px) {
+    .library-item { width: calc(100% / 2 - 20px); } /* 2 per row on tablets */
+  }
+
+  @media (min-width: 1000px) {
+    .library-item { width: calc(100% / 3 - 20px); } /* 3 per row on desktops */
+  }
+</style>
 
 
 
