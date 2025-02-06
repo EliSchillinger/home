@@ -282,23 +282,7 @@ Templates to streamline project development and research collaboration.
 
 <div class="template-gallery">
 
-  <div class="template-item">
-    <a href="https://cu-esiil.github.io/Education_OASIS/" target="_blank">
-      <img src="https://github.com/CU-ESIIL/home/blob/main/docs/assets/thumbnails/edu_oasis.jpeg?raw=true" alt="Education OASIS">
-    </a>
-    <p><strong>Education OASIS</strong></p>
-    <p>Template for ESIIL education students to create their own OASIS.</p>
-    <a href="https://cu-esiil.github.io/Education_OASIS/" target="_blank">🔗 Visit</a>
-  </div>
-
-  <div class="template-item">
-    <a href="https://cu-esiil.github.io/Slideshow_OASIS/" target="_blank">
-      <img src="https://github.com/CU-ESIIL/home/blob/main/docs/assets/thumbnails/slideshow_OASIS.jpeg?raw=true" alt="Slideshow OASIS">
-    </a>
-    <p><strong>Slideshow OASIS</strong></p>
-    <p>Basic slideshow template for presentations.</p>
-    <a href="https://cu-esiil.github.io/Slideshow_OASIS/" target="_blank">🔗 Visit</a>
-  </div>
+  
 
   <div class="template-item">
     <a href="https://cu-esiil.github.io/Postdoc_OASIS/" target="_blank">
@@ -325,6 +309,24 @@ Templates to streamline project development and research collaboration.
     <p><strong>Working Group OASIS</strong></p>
     <p>Central hub for information on ESIIL working groups.</p>
     <a href="https://cu-esiil.github.io/Working_group_OASIS/" target="_blank">🔗 Visit</a>
+  </div>
+
+  <div class="template-item">
+    <a href="https://cu-esiil.github.io/Education_OASIS/" target="_blank">
+      <img src="https://github.com/CU-ESIIL/home/blob/main/docs/assets/thumbnails/edu_oasis.jpeg?raw=true" alt="Education OASIS">
+    </a>
+    <p><strong>Education OASIS</strong></p>
+    <p>Template for ESIIL education students to create their own OASIS.</p>
+    <a href="https://cu-esiil.github.io/Education_OASIS/" target="_blank">🔗 Visit</a>
+  </div>
+
+  <div class="template-item">
+    <a href="https://cu-esiil.github.io/Slideshow_OASIS/" target="_blank">
+      <img src="https://github.com/CU-ESIIL/home/blob/main/docs/assets/thumbnails/slideshow_OASIS.jpeg?raw=true" alt="Slideshow OASIS">
+    </a>
+    <p><strong>Slideshow OASIS</strong></p>
+    <p>Basic slideshow template for presentations.</p>
+    <a href="https://cu-esiil.github.io/Slideshow_OASIS/" target="_blank">🔗 Visit</a>
   </div>
 
 </div>
