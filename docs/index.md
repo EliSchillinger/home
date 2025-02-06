@@ -381,7 +381,7 @@ Repositories focused on software, data infrastructure, and computational tools.
 
   <div class="template-item">
     <a href="https://github.com/CU-ESIIL/docker" target="_blank">
-      <img src="./docker.jpeg" alt="Docker">
+      <img src="https://github.com/CU-ESIIL/home/blob/main/docs/assets/thumbnails/docker.jpeg?raw=true" alt="Docker">
     </a>
     <p><strong>Docker</strong></p>
     <p>Private repository for containerized workflows and CI/CD.</p>
@@ -390,7 +390,7 @@ Repositories focused on software, data infrastructure, and computational tools.
 
   <div class="template-item">
     <a href="https://github.com/CU-ESIIL/cyverse-utils" target="_blank">
-      <img src="./cyverse_utils.jpeg" alt="CyVerse Utils">
+      <img src="https://github.com/CU-ESIIL/home/blob/main/docs/assets/thumbnails/cyverse_utils.jpeg?raw=true" alt="CyVerse Utils">
     </a>
     <p><strong>CyVerse Utils</strong></p>
     <p>Utilities for working with CyVerse infrastructure.</p>
@@ -399,7 +399,7 @@ Repositories focused on software, data infrastructure, and computational tools.
 
   <div class="template-item">
     <a href="https://cu-esiil.github.io/OASISDockerDemo/" target="_blank">
-      <img src="./oasis_docker_demo.jpeg" alt="OASIS Docker Demo">
+      <img src="https://github.com/CU-ESIIL/home/blob/main/docs/assets/thumbnails/oasis_docker_demo.jpeg?raw=true" alt="OASIS Docker Demo">
     </a>
     <p><strong>OASIS Docker Demo</strong></p>
     <p>Public demonstration of Dockerized workflows.</p>
@@ -408,7 +408,7 @@ Repositories focused on software, data infrastructure, and computational tools.
 
   <div class="template-item">
     <a href="https://cu-esiil.github.io/Min_docker_demo/" target="_blank">
-      <img src="./mini_docker_demo.jpeg" alt="Min Docker Demo">
+      <img src="https://github.com/CU-ESIIL/home/blob/main/docs/assets/thumbnails/mini_docker_demo.jpeg?raw=true" alt="Min Docker Demo">
     </a>
     <p><strong>Min Docker Demo</strong></p>
     <p>Minimal demonstration for Docker containers.</p>
@@ -417,7 +417,7 @@ Repositories focused on software, data infrastructure, and computational tools.
 
   <div class="template-item">
     <a href="https://github.com/CU-ESIIL/cyverse-issues" target="_blank">
-      <img src="./cyverse_issues.jpeg" alt="CyVerse Issues">
+      <img src="https://github.com/CU-ESIIL/home/blob/main/docs/assets/thumbnails/cyverse_issues.jpeg?raw=true" alt="CyVerse Issues">
     </a>
     <p><strong>CyVerse Issues</strong></p>
     <p>Documenting known issues in CyVerse workflows.</p>
