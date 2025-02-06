@@ -1,8 +1,6 @@
 ---
 
-<h1 style="font-family: 'Montserrat', sans-serif; font-weight: 700; color: #004466; text-transform: uppercase; letter-spacing: 1px;">
-  🌍 Open Analytics and Synthesis Infrastructure for Science (OASIS)
-</h1>
+# 🌍 Open Analytics and Synthesis Infrastructure for Science (OASIS)
 
 
 Welcome to the **OASIS**, a hub for open analysis and synthesis in environmental data science. This site provides categorized links to **working groups, templates, tools, and resources** that support collaborative and innovative research efforts.
