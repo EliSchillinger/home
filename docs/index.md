@@ -62,7 +62,7 @@ Welcome to the **OASIS**, a hub for open analysis and synthesis in environmental
 
 ---
 
-## 🚀 **Working Groups**  
+## 🚀 **NSF Synthesis Working Groups**  
 
 <div style="display: flex; flex-wrap: wrap; gap: 20px; justify-content: flex-start;">
 
@@ -153,7 +153,7 @@ Welcome to the **OASIS**, a hub for open analysis and synthesis in environmental
 </style>
 
 ---
-## 🎓 **Postdoc Research Projects**  
+## 🎓 **NSF Synthesis Postdoc Researcher Projects**  
 These repositories represent postdoc-led research initiatives at ESIIL.
 
 <div style="display: flex; flex-wrap: wrap; gap: 20px; justify-content: flex-start;">
@@ -253,7 +253,7 @@ These repositories represent postdoc-led research initiatives at ESIIL.
 
 ---
 
-## 🔬 **Research Projects**  
+## 🔬 **Staff and Affiliate Research Projects**  
 These repositories represent broader research efforts contributing to environmental data science.
 
 | Name | Description | Link |
@@ -277,28 +277,16 @@ Major ESIIL-hosted and affiliated events.
 
 ---
 
-## 🏗 **Templates**  
-Pre-built repositories to streamline project setup.
+## 🛠️ **OASIS Templates & Reusable Frameworks**  
+Templates to streamline project development and research collaboration.
 
 | Name | Description | Link |
 |------|------------|------|
 | **[Education OASIS](https://cu-esiil.github.io/Education_OASIS/)** | Template for ESIIL education students to create their own OASIS. | 🔗 Website |
-| **[Slideshow OASIS](https://cu-esiil.github.io/Slideshow_OASIS/)** | Template for basic slideshow presentations. | 🔗 Website |
-| **[Postdoc OASIS](https://cu-esiil.github.io/Postdoc_OASIS/)** | Template for ESIIL postdocs to set up their own OASIS. | 🔗 Website |
-| **[Base GitHub Pages](https://github.com/CU-ESIIL/base-gh-pages)** | Base repository for building new GitHub pages sites. | 🔗 GitHub |
+| **[Slideshow OASIS](https://cu-esiil.github.io/Slideshow_OASIS/)** | Basic slideshow template for presentations. | 🔗 Website |
+| **[Postdoc OASIS](https://cu-esiil.github.io/Postdoc_OASIS/)** | Template for postdoc research documentation. | 🔗 Website |
+| **[Base GitHub Pages](https://github.com/CU-ESIIL/base-gh-pages)** | Starter repository for GitHub Pages projects. | 🔗 GitHub |
 | **[Working Group OASIS](https://cu-esiil.github.io/Working_group_OASIS/)** | Central hub for information on ESIIL working groups. | 🔗 Website |
-
----
-
-## 🎓 **Teaching Resources**  
-Repositories containing materials for courses, workshops, and tutorials.
-
-| Name | Description | Link |
-|------|------------|------|
-| **[Pre-Innovation Summit Training](https://cu-esiil.github.io/pre-innovation-summit-training/)** | Repository for all things pre-innovation-summit-training. | 🔗 Website |
-| **[EDS Demo](https://cu-esiil.github.io/eds_demo/)** | Example repository for environmental data science education. | 🔗 Website |
-| **[Git & GitHub Fundamentals](https://github.com/CU-ESIIL/git-github-fundamentals-eculler)** | GitHub Classroom-created fundamentals course. | 🔗 GitHub |
-| **[WG PI Orientation](https://cu-esiil.github.io/WG_PI_Orientation/)** | Orientation materials for ESIIL working group PIs. | 🔗 Website |
 
 ---
 
@@ -313,7 +301,7 @@ Guides and walkthroughs to help researchers and students learn new tools and tec
 
 ---
 
-## 🏗️ **Infrastructure & Tools**  
+## 🏗️ **CI Infrastructure & Tools**  
 Repositories focused on software, data infrastructure, and computational tools.
 
 | Name | Description | Link |
@@ -327,18 +315,22 @@ Repositories focused on software, data infrastructure, and computational tools.
 
 ---
 
-
-## 🛠️ **Templates & Reusable Frameworks**  
-Templates to streamline project development and research collaboration.
+## 🎓 **Teaching Resources**  
+Repositories containing materials for courses, workshops, and tutorials.
 
 | Name | Description | Link |
 |------|------------|------|
-| **[Education OASIS](https://cu-esiil.github.io/Education_OASIS/)** | Template for ESIIL education students to create their own OASIS. | 🔗 Website |
-| **[Slideshow OASIS](https://cu-esiil.github.io/Slideshow_OASIS/)** | Basic slideshow template for presentations. | 🔗 Website |
-| **[Postdoc OASIS](https://cu-esiil.github.io/Postdoc_OASIS/)** | Template for postdoc research documentation. | 🔗 Website |
-| **[Base GitHub Pages](https://github.com/CU-ESIIL/base-gh-pages)** | Starter repository for GitHub Pages projects. | 🔗 GitHub |
+| **[Pre-Innovation Summit Training](https://cu-esiil.github.io/pre-innovation-summit-training/)** | Repository for all things pre-innovation-summit-training. | 🔗 Website |
+| **[EDS Demo](https://cu-esiil.github.io/eds_demo/)** | Example repository for environmental data science education. | 🔗 Website |
+| **[Git & GitHub Fundamentals](https://github.com/CU-ESIIL/git-github-fundamentals-eculler)** | GitHub Classroom-created fundamentals course. | 🔗 GitHub |
+| **[WG PI Orientation](https://cu-esiil.github.io/WG_PI_Orientation/)** | Orientation materials for ESIIL working group PIs. | 🔗 Website |
+
+
 
 ---
+
+
+
 
 ## ❌ **To Be Deleted**  
 These repositories are marked for removal.
