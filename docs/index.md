@@ -303,14 +303,6 @@ Templates to streamline project development and research collaboration.
     <a href="https://cu-esiil.github.io/Postdoc_OASIS/" target="_blank">🔗 Visit</a>
   </div>
 
-  <div class="template-item">
-    <a href="https://github.com/CU-ESIIL/base-gh-pages" target="_blank">
-      <img src="https://github.com/CU-ESIIL/home/blob/main/docs/assets/thumbnails/base_github_page.jpeg?raw=true" alt="Base GitHub Pages">
-    </a>
-    <p><strong>Base GitHub Pages</strong></p>
-    <p>Starter repository for GitHub Pages projects.</p>
-    <a href="https://github.com/CU-ESIIL/base-gh-pages" target="_blank">🔗 Visit</a>
-  </div>
 
   <div class="template-item">
     <a href="https://cu-esiil.github.io/Working_group_OASIS/" target="_blank">
@@ -321,6 +313,16 @@ Templates to streamline project development and research collaboration.
     <a href="https://cu-esiil.github.io/Working_group_OASIS/" target="_blank">🔗 Visit</a>
   </div>
 
+  
+  <div class="template-item">
+    <a href="https://github.com/CU-ESIIL/base-gh-pages" target="_blank">
+      <img src="https://github.com/CU-ESIIL/home/blob/main/docs/assets/thumbnails/base_github_page.jpeg?raw=true" alt="Base GitHub Pages">
+    </a>
+    <p><strong>Base GitHub Pages</strong></p>
+    <p>Starter repository for GitHub Pages projects.</p>
+    <a href="https://github.com/CU-ESIIL/base-gh-pages" target="_blank">🔗 Visit</a>
+  </div>
+  
   <div class="template-item">
     <a href="https://cu-esiil.github.io/Education_OASIS/" target="_blank">
       <img src="https://github.com/CU-ESIIL/home/blob/main/docs/assets/thumbnails/edu_oasis.jpeg?raw=true" alt="Education OASIS">
