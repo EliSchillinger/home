@@ -278,14 +278,6 @@ Major ESIIL-hosted and affiliated events.
 
 <div class="template-gallery">
 
-  <div class="template-item">
-    <a href="https://cu-esiil.github.io/agu-2023_innovation_session/" target="_blank">
-      <img src="https://github.com/CU-ESIIL/home/blob/main/docs/assets/thumbnails/AGU_innovation_summit.jpeg?raw=true" alt="AGU 2023 Innovation Session">
-    </a>
-    <p><strong>AGU 2023 Innovation Session</strong></p>
-    <p>Maximizing Stakeholder Engagement in Open Environmental Data Science.</p>
-    <a href="https://cu-esiil.github.io/agu-2023_innovation_session/" target="_blank">🔗 Visit</a>
-  </div>
 
   <div class="template-item">
     <a href="https://cu-esiil.github.io/Innovation-Summit-2025/" target="_blank">
@@ -306,6 +298,15 @@ Major ESIIL-hosted and affiliated events.
   </div>
 
   <div class="template-item">
+    <a href="https://cu-esiil.github.io/Innovation-Summit-2024/" target="_blank">
+      <img src="https://github.com/CU-ESIIL/home/blob/main/docs/assets/thumbnails/innovation_summit_2024.jpeg?raw=true" alt="Innovation Summit 2024">
+    </a>
+    <p><strong>Innovation Summit 2024</strong></p>
+    <p>Official repo for the ESIIL Innovation Summit 2024.</p>
+    <a href="https://cu-esiil.github.io/Innovation-Summit-2024/" target="_blank">🔗 Visit</a>
+  </div>
+
+  <div class="template-item">
     <a href="https://cu-esiil.github.io/forest-carbon-codefest/" target="_blank">
       <img src="https://github.com/CU-ESIIL/home/blob/main/docs/assets/thumbnails/FCC.jpeg?raw=true" alt="Forest Carbon Codefest">
     </a>
@@ -323,13 +324,15 @@ Major ESIIL-hosted and affiliated events.
     <a href="https://cu-esiil.github.io/HYR-SENSE/" target="_blank">🔗 Visit</a>
   </div>
 
+
+  
   <div class="template-item">
-    <a href="https://cu-esiil.github.io/Innovation-Summit-2024/" target="_blank">
-      <img src="https://github.com/CU-ESIIL/home/blob/main/docs/assets/thumbnails/innovation_summit_2024.jpeg?raw=true" alt="Innovation Summit 2024">
+    <a href="https://cu-esiil.github.io/agu-2023_innovation_session/" target="_blank">
+      <img src="https://github.com/CU-ESIIL/home/blob/main/docs/assets/thumbnails/AGU_innovation_summit.jpeg?raw=true" alt="AGU 2023 Innovation Session">
     </a>
-    <p><strong>Innovation Summit 2024</strong></p>
-    <p>Official repo for the ESIIL Innovation Summit 2024.</p>
-    <a href="https://cu-esiil.github.io/Innovation-Summit-2024/" target="_blank">🔗 Visit</a>
+    <p><strong>AGU 2023 Innovation Session</strong></p>
+    <p>Maximizing Stakeholder Engagement in Open Environmental Data Science.</p>
+    <a href="https://cu-esiil.github.io/agu-2023_innovation_session/" target="_blank">🔗 Visit</a>
   </div>
 
 </div>
