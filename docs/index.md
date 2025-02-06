@@ -280,9 +280,9 @@ Major ESIIL-hosted and affiliated events.
 ## 🛠️ **OASIS Templates & Reusable Frameworks**  
 Templates to streamline project development and research collaboration.
 
-<div class="gallery-container">
+<div class="template-gallery">
 
-  <div class="gallery-item">
+  <div class="template-item">
     <a href="https://cu-esiil.github.io/Education_OASIS/" target="_blank">
       <img src="https://github.com/CU-ESIIL/home/blob/main/docs/assets/thumbnails/edu_oasis.jpeg?raw=true" alt="Education OASIS">
     </a>
@@ -291,7 +291,7 @@ Templates to streamline project development and research collaboration.
     <a href="https://cu-esiil.github.io/Education_OASIS/" target="_blank">🔗 Visit</a>
   </div>
 
-  <div class="gallery-item">
+  <div class="template-item">
     <a href="https://cu-esiil.github.io/Slideshow_OASIS/" target="_blank">
       <img src="https://github.com/CU-ESIIL/home/blob/main/docs/assets/thumbnails/slideshow_OASIS.jpeg?raw=true" alt="Slideshow OASIS">
     </a>
@@ -300,7 +300,7 @@ Templates to streamline project development and research collaboration.
     <a href="https://cu-esiil.github.io/Slideshow_OASIS/" target="_blank">🔗 Visit</a>
   </div>
 
-  <div class="gallery-item">
+  <div class="template-item">
     <a href="https://cu-esiil.github.io/Postdoc_OASIS/" target="_blank">
       <img src="https://github.com/CU-ESIIL/home/blob/main/docs/assets/thumbnails/postdoc_oasis.jpeg?raw=true" alt="Postdoc OASIS">
     </a>
@@ -309,7 +309,7 @@ Templates to streamline project development and research collaboration.
     <a href="https://cu-esiil.github.io/Postdoc_OASIS/" target="_blank">🔗 Visit</a>
   </div>
 
-  <div class="gallery-item">
+  <div class="template-item">
     <a href="https://github.com/CU-ESIIL/base-gh-pages" target="_blank">
       <img src="https://github.com/CU-ESIIL/home/blob/main/docs/assets/thumbnails/base_github_page.jpeg?raw=true" alt="Base GitHub Pages">
     </a>
@@ -318,7 +318,7 @@ Templates to streamline project development and research collaboration.
     <a href="https://github.com/CU-ESIIL/base-gh-pages" target="_blank">🔗 Visit</a>
   </div>
 
-  <div class="gallery-item">
+  <div class="template-item">
     <a href="https://cu-esiil.github.io/Working_group_OASIS/" target="_blank">
       <img src="https://github.com/CU-ESIIL/home/blob/main/docs/assets/thumbnails/working_group_oasis.jpeg?raw=true" alt="Working Group OASIS">
     </a>
@@ -330,38 +330,27 @@ Templates to streamline project development and research collaboration.
 </div>
 
 <style>
-  .gallery-container {
+  .template-gallery {
     display: flex;
     flex-wrap: wrap;
     gap: 20px;
     justify-content: center;
   }
 
-  .gallery-item {
-    width: calc(100% / 3 - 20px);
+  .template-item {
+    width: calc(100% / 5 - 20px);
     text-align: center;
   }
 
-  .gallery-item img {
+  .template-item img {
     width: 100%;
-    max-width: 150px;
+    max-width: none;
     border-radius: 10px;
     object-fit: cover;
     height: auto;
   }
 </style>
 
-
-## 🛠️ **OASIS Templates & Reusable Frameworks**  
-Templates to streamline project development and research collaboration.
-
-| Name | Description | Link |
-|------|------------|------|
-| **[Education OASIS](https://cu-esiil.github.io/Education_OASIS/)** | Template for ESIIL education students to create their own OASIS. | 🔗 Website |
-| **[Slideshow OASIS](https://cu-esiil.github.io/Slideshow_OASIS/)** | Basic slideshow template for presentations. | 🔗 Website |
-| **[Postdoc OASIS](https://cu-esiil.github.io/Postdoc_OASIS/)** | Template for postdoc research documentation. | 🔗 Website |
-| **[Base GitHub Pages](https://github.com/CU-ESIIL/base-gh-pages)** | Starter repository for GitHub Pages projects. | 🔗 GitHub |
-| **[Working Group OASIS](https://cu-esiil.github.io/Working_group_OASIS/)** | Central hub for information on ESIIL working groups. | 🔗 Website |
 
 ---
 
