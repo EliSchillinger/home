@@ -165,6 +165,91 @@ Welcome to the **OASIS**, a hub for open analysis and synthesis in environmental
 ## 🎓 **Postdoc Research Projects**  
 These repositories represent postdoc-led research initiatives at ESIIL.
 
+<div style="display: flex; flex-wrap: wrap; gap: 20px; justify-content: flex-start;">
+
+  <div class="gallery-item">
+    <a href="https://cu-esiil.github.io/Jim-s-Sandbox/" target="_blank">
+      <img src="https://github.com/CU-ESIIL/home/blob/main/docs/assets/thumbnails/Jims_Sandbox.jpeg?raw=true" alt="Jim's Sandbox">
+    </a>
+    <p><strong>Jim's Sandbox</strong></p>
+    <p>Training and practice space for data cubes.</p>
+    <a href="https://cu-esiil.github.io/Jim-s-Sandbox/" target="_blank">🔗 Visit</a>
+  </div>
+
+  <div class="gallery-item">
+    <a href="https://cu-esiil.github.io/biotic_niche_modeling/" target="_blank">
+      <img src="https://github.com/CU-ESIIL/home/blob/main/docs/assets/thumbnails/biotic_niche_modeling.jpeg?raw=true" alt="Biotic Niche Modeling">
+    </a>
+    <p><strong>Biotic Niche Modeling</strong></p>
+    <p>Research on species niche dynamics.</p>
+    <a href="https://cu-esiil.github.io/biotic_niche_modeling/" target="_blank">🔗 Visit</a>
+  </div>
+
+  <div class="gallery-item">
+    <a href="https://cu-esiil.github.io/nutrient-flows/" target="_blank">
+      <img src="https://github.com/CU-ESIIL/home/blob/main/docs/assets/thumbnails/nutrient_flows.jpeg?raw=true" alt="Nutrient Flows">
+    </a>
+    <p><strong>Nutrient Flows</strong></p>
+    <p>Analysis of seafood trade and sustainability.</p>
+    <a href="https://cu-esiil.github.io/nutrient-flows/" target="_blank">🔗 Visit</a>
+  </div>
+
+  <div class="gallery-item">
+    <a href="https://github.com/CU-ESIIL/LTER-material-legacies" target="_blank">
+      <img src="https://github.com/CU-ESIIL/home/blob/main/docs/assets/thumbnails/LTER_material_legacies.jpeg?raw=true" alt="LTER Material Legacies">
+    </a>
+    <p><strong>LTER Material Legacies</strong></p>
+    <p>Impact of dead tree legacies on forest resilience.</p>
+    <a href="https://github.com/CU-ESIIL/LTER-material-legacies" target="_blank">🔗 Visit</a>
+  </div>
+
+  <div class="gallery-item">
+    <a href="https://cu-esiil.github.io/Team-Science/" target="_blank">
+      <img src="https://github.com/CU-ESIIL/home/blob/main/docs/assets/thumbnails/Team_Science.jpeg?raw=true" alt="Team Science">
+    </a>
+    <p><strong>Team Science</strong></p>
+    <p>Studying scientific collaboration networks.</p>
+    <a href="https://cu-esiil.github.io/Team-Science/" target="_blank">🔗 Visit</a>
+  </div>
+
+  <div class="gallery-item">
+    <a href="https://github.com/CU-ESIIL/opt-decision-making" target="_blank">
+      <img src="https://github.com/CU-ESIIL/home/blob/main/docs/assets/thumbnails/opt_decision_making.jpeg?raw=true" alt="Opt Decision Making">
+    </a>
+    <p><strong>Opt Decision Making</strong></p>
+    <p>Optimization and decision science.</p>
+    <a href="https://github.com/CU-ESIIL/opt-decision-making" target="_blank">🔗 Visit</a>
+  </div>
+
+</div>
+
+<style>
+  .gallery-item {
+    width: calc(100% / 2 - 20px); /* Two per row on small screens */
+    text-align: center;
+  }
+
+  .gallery-item img {
+    width: 100%;
+    max-width: 150px; /* Ensures uniform icon size */
+    border-radius: 10px;
+  }
+
+  @media (min-width: 600px) {
+    .gallery-item { width: calc(100% / 4 - 20px); } /* Four per row on tablets */
+  }
+
+  @media (min-width: 1000px) {
+    .gallery-item { width: calc(100% / 7 - 20px); } /* Seven per row on desktops */
+  }
+</style>
+
+
+
+
+## 🎓 **Postdoc Research Projects**  
+These repositories represent postdoc-led research initiatives at ESIIL.
+
 | Name | Description | Link |
 |------|------------|------|
 | **[Jim's Sandbox](https://cu-esiil.github.io/Jim-s-Sandbox/)** | Training and practice space for data cubes. | 🔗 Website |
