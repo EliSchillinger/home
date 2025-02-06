@@ -212,24 +212,6 @@ These repositories represent postdoc-led research initiatives at ESIIL.
     <a href="https://cu-esiil.github.io/Team-Science/" target="_blank">🔗 Visit</a>
   </div>
 
-  <div class="gallery-item">
-    <a href="https://github.com/CU-ESIIL/opt-decision-making" target="_blank">
-      <img src="https://github.com/CU-ESIIL/home/blob/main/docs/assets/thumbnails/opt_decision_making.jpeg?raw=true" alt="Opt Decision Making">
-    </a>
-    <p><strong>Opt Decision Making</strong></p>
-    <p>Optimization and decision science.</p>
-    <a href="https://github.com/CU-ESIIL/opt-decision-making" target="_blank">🔗 Visit</a>
-  </div>
-
-  <div class="gallery-item">
-    <a href="https://cu-esiil.github.io/water_carbon_management/" target="_blank">
-      <img src="https://github.com/CU-ESIIL/home/blob/main/docs/assets/thumbnails/water_carbon_dynamics.jpeg?raw=true" alt="Water Carbon Dynamics">
-    </a>
-    <p><strong>Water Carbon Dynamics</strong></p>
-    <p>Investigating water-carbon interactions.</p>
-    <a href="https://cu-esiil.github.io/water_carbon_management/" target="_blank">🔗 Visit</a>
-  </div>
-
 </div>
 
 <style>
@@ -241,7 +223,9 @@ These repositories represent postdoc-led research initiatives at ESIIL.
   .gallery-item img {
     width: 100%;
     max-width: 150px; /* Ensures uniform icon size */
-    border-radius: 10px;
+    border-radius: 50%;
+    object-fit: cover;
+    height: 150px;
   }
 
   @media (min-width: 600px) {
@@ -252,25 +236,6 @@ These repositories represent postdoc-led research initiatives at ESIIL.
     .gallery-item { width: calc(100% / 7 - 20px); } /* Seven per row on desktops */
   }
 </style>
-
-
-
-
-## 🎓 **Postdoc Research Projects**  
-These repositories represent postdoc-led research initiatives at ESIIL.
-
-| Name | Description | Link |
-|------|------------|------|
-| **[Jim's Sandbox](https://cu-esiil.github.io/Jim-s-Sandbox/)** | Training and practice space for data cubes. | 🔗 Website |
-| **[Biotic Niche Modeling](https://cu-esiil.github.io/biotic_niche_modeling/)** | Research on species niche dynamics. | 🔗 Website |
-| **[Nutrient Flows](https://cu-esiil.github.io/nutrient-flows/)** | Analysis of seafood trade and sustainability. | 🔗 Website |
-| **[LTER Material Legacies](https://github.com/CU-ESIIL/LTER-material-legacies)** | Impact of dead tree legacies on forest resilience. | 🔗 GitHub |
-| **[Team Science](https://cu-esiil.github.io/Team-Science/)** | Studying scientific collaboration networks. | 🔗 Website |
-| **[Opt Decision Making](https://github.com/CU-ESIIL/opt-decision-making)** | Optimization and decision science. | 🔗 GitHub |
-| **[Water Carbon Dynamics](https://cu-esiil.github.io/water_carbon_management/)** | Investigating water-carbon interactions. | 🔗 Website |
-| **[Cultural ES WildfireRx](https://cu-esiil.github.io/CulturalES_WildfireRx/)** | Wildfire effects on cultural ecosystem services. | 🔗 Website |
-| **[SCE Wildfire](https://cu-esiil.github.io/SCE-Wildfire/)** | Socioecological impacts of wildfire. | 🔗 Website |
-
 ---
 
 ## 🔬 **Research Projects**  
