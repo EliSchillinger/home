@@ -7,6 +7,8 @@
 <script>
     document.addEventListener("scroll", function () {
         let scrolled = window.scrollY;
-        document.querySelector(".parallax").style.transform = "translateY(" + scrolled * 0.3 + "px)";
+        let headerImg = document.getElementById("header-img");
+        headerImg.style.transform = "scale(" + (1 + scrolled * 0.0005) + ")";
     });
 </script>
+
