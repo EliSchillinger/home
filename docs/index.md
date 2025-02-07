@@ -1,17 +1,12 @@
-<!-- Parallax Section -->
+<!-- Parallax Header -->
 <div class="parallax"></div>
 
-<!-- OASIS Header Image -->
-<img src="https://raw.githubusercontent.com/CU-ESIIL/home/main/docs/assets/thumbnails/OASIS_header.png" 
-     alt="OASIS Header" 
-     style="width:100%; max-height:300px; object-fit:cover; border-radius:0px;">
+<!-- Main Content -->
+<div class="content">
+    <h1 class="oasis-header">Open Analytics and Synthesis Infrastructure for Science</h1>
+    <p>Welcome to the <strong>OASIS</strong>, a hub for open analysis and synthesis in environmental data science.</p>
+</div>
 
-<!-- Title with Custom Font -->
-<h1 class="oasis-header">Open Analytics and Synthesis Infrastructure for Science</h1>
-
-<p>Welcome to the <strong>OASIS</strong>, a hub for open analysis and synthesis in environmental data science. 
-This site provides categorized links to <strong>working groups, templates, tools, and resources</strong> that support 
-collaborative and innovative research efforts.</p>
 ---
 ## 📚 Data & Analytics Libraries
 
