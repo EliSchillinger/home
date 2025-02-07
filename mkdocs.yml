@@ -29,8 +29,8 @@ theme:
     position: right
   features:
     - navigation.instant
-    - navigation.tracking
-    - navigation.tabs
+    #- navigation.tracking
+    #- navigation.tabs
     - navigation.tabs.sticky
     - navigation.indexes
     - navigation.top
