@@ -1,4 +1,6 @@
 ---
+<div class="parallax"></div>
+
 <img src="https://github.com/CU-ESIIL/home/blob/main/docs/assets/thumbnails/OASIS_header.png?raw=true" alt="OASIS Header" style="width:100%; max-height:300px; object-fit:cover; border-radius:0px;">
 
 <h1 class="oasis-header">Open Analytics and Synthesis Infrastructure for Science</h1>
