@@ -1,4 +1,4 @@
-site_name: 'OASIS'
+site_name: 'Open Analysis and Synthesis Infrastructure for Science'
 site_description: 'Open Analysis and Synthesis Infrastructure for Science'
 site_author: ESIIL staff
 site_url: https://cu-esiil.github.io/home
@@ -12,7 +12,7 @@ copyright: 'Copyright &copy; 2024 University of Colorado Boulder'
 
 # Page tree
 nav: 
-  - Open Analysis and Synthesis Infrastructure for Science: index.md
+  - OASIS: index.md
   
 # Configuration
 theme:
