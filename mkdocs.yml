@@ -37,6 +37,9 @@ theme:
     - toc.integrate
     - toc.follow
     - content.code.copy
+  hide:
+    - navigation.footer  # Hide footer navigation if needed
+    - navigation.site_name  # Hides the site name from the sidebar
   # Default values, taken from mkdocs_theme.yml
   language: en
   palette:
