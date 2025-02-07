@@ -12,7 +12,7 @@ copyright: 'Copyright &copy; 2024 University of Colorado Boulder'
 
 # Page tree
 nav:
-  - Home: index.md
+  - OASIS: index.md
 
 # Configuration
 theme:
