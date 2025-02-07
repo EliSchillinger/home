@@ -82,3 +82,13 @@
   color: rgba(211, 211, 211, 1) !important; /* Light Gray with 80% opacity */
 }
 
+
+
+/* Ensure the OASIS logo replaces text cleanly */
+.md-header__inner .md-header__title img {
+    max-height: 40px; /* Adjust size */
+    object-fit: contain;
+    margin-left: 10px; /* Add spacing from the ESIIL logo */
+}
+
+
