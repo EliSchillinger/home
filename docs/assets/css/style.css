@@ -2,9 +2,9 @@
 
 .oasis-header {
   font-family: 'Staatliches', sans-serif;
-  font-size: 64px;
+  font-size: 100px;
   text-transform: uppercase;
-  letter-spacing: 3px;
+  letter-spacing: 5px;
   color: #1E1E1E; /* Adjust for better contrast */
   text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.3);
   text-align: center;
