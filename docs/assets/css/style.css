@@ -10,6 +10,15 @@
   text-align: center;
 }
 
+/* Parallax Scrolling Effect */
+.parallax {
+    background-image: url('/docs/assets/thumbnails/OASIS_header.png'); /* Change this to your image */
+    min-height: 400px; /* Adjust height */
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
 
 
 @import url('https://fonts.googleapis.com/css2?family=Staatliches&display=swap');
