@@ -88,5 +88,9 @@
     width: auto; /* Maintain aspect ratio */
 }
 
+/* Hide the floating page title in the header */
+.md-header__topic {
+    display: none !important;
+}
 
 
