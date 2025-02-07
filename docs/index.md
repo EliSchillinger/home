@@ -1,7 +1,22 @@
 ---
 <img src="https://github.com/CU-ESIIL/home/blob/main/docs/assets/thumbnails/OASIS_header.png?raw=true" alt="OASIS Header" style="width:100%; max-height:300px; object-fit:cover; border-radius:10px;">
 
-# 🌍 Open Analytics and Synthesis Infrastructure for Science (OASIS)
+<head>
+  <link href="https://fonts.googleapis.com/css2?family=Staatliches&display=swap" rel="stylesheet">
+  <style>
+    .oasis-header {
+      font-family: 'Staatliches', sans-serif;
+      font-size: 48px;
+      text-transform: uppercase;
+      letter-spacing: 3px;
+      color: #1E1E1E; /* Adjust for better contrast */
+      text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.3);
+    }
+  </style>
+</head>
+
+
+<h1 class="oasis-header">🌍 Open Analytics and Synthesis Infrastructure for Science (OASIS)</h1>
 
 
 Welcome to the **OASIS**, a hub for open analysis and synthesis in environmental data science. This site provides categorized links to **working groups, templates, tools, and resources** that support collaborative and innovative research efforts.
