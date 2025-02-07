@@ -1,4 +1,4 @@
-<!-- Parallax Header -->
+<!-- Parallax Section -->
 <div class="parallax"></div>
 
 <!-- Main Content -->
