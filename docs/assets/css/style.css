@@ -10,3 +10,30 @@
   text-align: center;
 }
 
+
+
+@import url('https://fonts.googleapis.com/css2?family=Staatliches&display=swap');
+
+:root {
+  --md-text-font: 'Open Sans', sans-serif;  /* Default body text */
+  --md-code-font: 'Roboto Mono', monospace; /* Default code font */
+  --md-sidebar-font: 'Staatliches', sans-serif; /* Sidebar */
+}
+
+/* Apply the OASIS font to the sidebar */
+.md-sidebar__inner {
+  font-family: var(--md-sidebar-font);
+  font-size: 18px;
+  text-transform: uppercase;
+  letter-spacing: 1px;
+}
+
+/* Optional: Style the main title in the sidebar */
+.md-header__title {
+  font-family: 'Staatliches', sans-serif;
+  font-size: 24px;
+  font-weight: bold;
+  text-transform: uppercase;
+  letter-spacing: 2px;
+}
+
