@@ -2,7 +2,7 @@
 
 .oasis-header {
   font-family: 'Staatliches', sans-serif;
-  font-size: 100px;
+  font-size: 8px;
   text-transform: uppercase;
   letter-spacing: 5px;
   color: #1E1E1E; /* Adjust for better contrast */
@@ -32,7 +32,6 @@
 .md-header__title {
   font-family: 'Staatliches', sans-serif;
   font-size: 24px;
-  font-weight: bold;
   text-transform: uppercase;
   letter-spacing: 2px;
 }
