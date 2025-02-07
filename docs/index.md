@@ -12,7 +12,6 @@
 <p>Welcome to the <strong>OASIS</strong>, a hub for open analysis and synthesis in environmental data science. 
 This site provides categorized links to <strong>working groups, templates, tools, and resources</strong> that support 
 collaborative and innovative research efforts.</p>
-
 ---
 ## 📚 Data & Analytics Libraries
 
