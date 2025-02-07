@@ -327,7 +327,7 @@ Major ESIIL-hosted and affiliated events.
       <img src="https://github.com/CU-ESIIL/home/blob/main/docs/assets/thumbnails/hyr-sense.jpeg?raw=true" alt="HYR-SENSE">
     </a>
     <p><strong>HYR-SENSE</strong></p>
-    <p>Remote sensing for environmental justice.</p>
+    <p>Remote sensing.</p>
     <a href="https://cu-esiil.github.io/HYR-SENSE/" target="_blank">🔗 Visit</a>
   </div>
 
