@@ -32,7 +32,7 @@ theme:
     #- navigation.tracking
     #- navigation.tabs
     - navigation.tabs.sticky
-    - navigation.indexes
+    #- navigation.indexes
     #- navigation.top
     - toc.integrate
     - toc.follow
