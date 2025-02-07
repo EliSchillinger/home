@@ -33,7 +33,7 @@ theme:
     #- navigation.tabs
     - navigation.tabs.sticky
     - navigation.indexes
-    - navigation.top
+    #- navigation.top
     - toc.integrate
     - toc.follow
     - content.code.copy
