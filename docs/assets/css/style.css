@@ -75,16 +75,16 @@
 /* Apply the OASIS font to the sidebar */
 .md-sidebar__inner {
   font-family: var(--md-sidebar-font);
-  font-size: 18px;
+  font-size: 16px;
   text-transform: uppercase;
   letter-spacing: 1px;
-  color: rgba(211, 211, 211, 0.8) !important; /* Light Gray (211, 211, 211) with 80% opacity */
+  color: rgba(211, 211, 211, 1) !important; /* Light Gray (211, 211, 211) with 80% opacity */
 }
 
 /* Optional: Style the main title in the sidebar */
 .md-header__title {
   font-family: 'Staatliches', sans-serif;
-  font-size: 24px;
+  font-size: 34px;
   text-transform: uppercase;
   letter-spacing: 2px;
   color: rgba(211, 211, 211, 1) !important; /* Light Gray with 80% opacity */
