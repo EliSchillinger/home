@@ -1,11 +1,14 @@
-<!-- Parallax Section -->
-<div class="parallax"></div>
+<!-- Parallax Wrapper -->
+<div class="parallax-container">
+    <div class="parallax"></div>
+</div>
 
 <!-- Main Content -->
 <div class="content">
     <h1 class="oasis-header">Open Analytics and Synthesis Infrastructure for Science</h1>
     <p>Welcome to the <strong>OASIS</strong>, a hub for open analysis and synthesis in environmental data science.</p>
 </div>
+
 
 ---
 ## 📚 Data & Analytics Libraries
