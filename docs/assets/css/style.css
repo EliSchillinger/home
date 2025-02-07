@@ -1,23 +1,29 @@
-@import url('https://fonts.googleapis.com/css2?family=Staatliches&display=swap');
-
-.oasis-header {
-  font-family: 'Staatliches', sans-serif;
-  font-size: 18px;
-  text-transform: uppercase;
-  letter-spacing: 5px;
-  color: #1E1E1E; /* Adjust for better contrast */
-  text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.3);
-  text-align: center;
-}
-
-/* Parallax Scrolling Effect */
+/* Parallax Background */
 .parallax {
-    background-image: url('/docs/assets/thumbnails/OASIS_header.png'); /* Change this to your image */
+    background-image: url('/docs/assets/thumbnails/OASIS_header.png'); /* Adjust path if needed */
     min-height: 400px; /* Adjust height */
     background-attachment: fixed;
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
+}
+
+/* Make sure text styles properly */
+.oasis-header {
+    font-family: 'Staatliches', sans-serif; /* Match header font */
+    font-size: 50px;
+    text-transform: uppercase;
+    letter-spacing: 3px;
+    color: #1E1E1E;
+    text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.3);
+    text-align: center;
+}
+
+/* Fallback for Mobile (Since fixed backgrounds don't always work on mobile) */
+@media (max-width: 768px) {
+    .parallax {
+        background-attachment: scroll;
+    }
 }
 
 
