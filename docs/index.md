@@ -8,7 +8,7 @@
 <!-- Main Content -->
 <div class="content">
     <h1 class="oasis-header">Open Analysis and Synthesis Infrastructure for Science</h1>
-    <p>Welcome to the <strong>OASIS</strong>, a hub for open analysis and synthesis in environmental data science.</p>
+    <p>Welcome to the <strong>OASIS</strong>, a hub for open analysis and synthesis in <strong>Environmental Data Science</strong>.</p>
 </div>
 
 ---
