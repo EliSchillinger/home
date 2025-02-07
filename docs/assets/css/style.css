@@ -82,6 +82,11 @@
   color: rgba(211, 211, 211, 1) !important; /* Light Gray with 80% opacity */
 }
 
+/* Increase size of the main ESIIL logo */
+.md-header__button.md-logo img {
+    max-height: 50px; /* Adjust height (default is ~24-30px) */
+    width: auto; /* Maintain aspect ratio */
+}
 
 
 
