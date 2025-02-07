@@ -41,6 +41,7 @@
   font-size: 18px;
   text-transform: uppercase;
   letter-spacing: 1px;
+  color: rgba(178, 34, 34, 0.8) !important; /* Firebrick red with 80% opacity */
 }
 
 /* Optional: Style the main title in the sidebar */
@@ -49,5 +50,7 @@
   font-size: 24px;
   text-transform: uppercase;
   letter-spacing: 2px;
+  color: rgba(178, 34, 34, 0.8) !important; /* Firebrick red with 80% opacity */
 }
+
 
