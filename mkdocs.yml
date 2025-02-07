@@ -105,7 +105,8 @@ markdown_extensions:
   - pymdownx.tilde
 
 extra_css:
-  - assets/css/style.css
+  - css/style.css
+
 
 plugins:
     - search
