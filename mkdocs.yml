@@ -12,7 +12,7 @@ copyright: 'Copyright &copy; 2024 University of Colorado Boulder'
 
 # Page tree
 nav: 
-  - OASIS: index.md
+  - Open Analysis and Synthesis Infrastructure for Science: index.md
   
 # Configuration
 theme:
