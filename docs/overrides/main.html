@@ -3,3 +3,10 @@
 {% block extrahead %}
 <meta name="google-site-verification" content="zuDAVj60mN5FV2Ujhrn0MbhUF6w0k2W7US8ztne1cuY" />
 {% endblock %}
+
+<script>
+    document.addEventListener("scroll", function () {
+        let scrolled = window.scrollY;
+        document.querySelector(".parallax").style.transform = "translateY(" + scrolled * 0.3 + "px)";
+    });
+</script>
