@@ -1,1 +1,12 @@
+@import url('https://fonts.googleapis.com/css2?family=Staatliches&display=swap');
+
+.oasis-header {
+  font-family: 'Staatliches', sans-serif;
+  font-size: 48px;
+  text-transform: uppercase;
+  letter-spacing: 3px;
+  color: #1E1E1E; /* Adjust for better contrast */
+  text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.3);
+  text-align: center;
+}
 
