@@ -1,8 +1,9 @@
 <!-- Static Header Section -->
 <div class="static-header">
-    <img src="https://raw.githubusercontent.com/CU-ESIIL/home/main/docs/assets/thumbnails/OASIS_header.png" 
+    <img id="header-img" src="https://raw.githubusercontent.com/CU-ESIIL/home/main/docs/assets/thumbnails/OASIS_header.png" 
          alt="OASIS Header">
 </div>
+
 
 <!-- Main Content -->
 <div class="content">
