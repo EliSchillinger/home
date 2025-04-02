@@ -9,9 +9,8 @@ jobs:
   build:
     name: Deploy docs
     runs-on: ubuntu-latest
-    # Add this permissions block
     permissions:
-      contents: write # Allow write access to repository contents (for pushing to gh-pages)
+      contents: write
     steps:
       - uses: actions/checkout@v3
       - uses: actions/setup-python@v4
@@ -20,5 +19,4 @@ jobs:
       - name: run requirements file
         run: pip install -r requirements.txt
       - name: Deploy docs
-        # Remove the 'env:' block from this step
         run: mkdocs gh-deploy --force
