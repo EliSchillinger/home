@@ -1,5 +1,6 @@
-#Build
-###To build the docs locally:
+# Build
+
+To build the docs locally:
 ```
 git clone https://github.com/CyVerse-learning-materials/foss.git
 
