@@ -14,5 +14,4 @@ pip install -r requirements.txt
 
 python -m mkdocs serve -a localhost:8000
 ```
-Open a browser and go to https://localhost:8000 If something is already running on localhost:8000 just change the port in the command
-
+Open a browser and go to https://localhost:8000 If something is already running on localhost:8000 just change the port in the command.
