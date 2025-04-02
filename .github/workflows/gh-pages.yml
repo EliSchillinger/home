@@ -1,21 +1,24 @@
- name: Publish docs via GitHub
- on:
-   push:
-     branches:
-       - main
+name: Publish docs via GitHub
 
- jobs:
-   build:
-     name: Deploy docs
-     runs-on: ubuntu-latest
-     steps:
-       - uses: actions/checkout@v3
-       - uses: actions/setup-python@v4
-         with:
-           python-version: 3.9
-       - name: run requirements file
-         run:  pip install -r requirements.txt 
-       - name: Deploy docs
-         run: mkdocs gh-deploy --force
-         env:
-           GITHUB_TOKEN: ${{ secrets.GH_TOKEN }}
+on:
+  push:
+    branches:
+      - main
+
+jobs:
+  build:
+    name: Deploy docs
+    runs-on: ubuntu-latest
+    # Add this permissions block
+    permissions:
+      contents: write # Allow write access to repository contents (for pushing to gh-pages)
+    steps:
+      - uses: actions/checkout@v3
+      - uses: actions/setup-python@v4
+        with:
+          python-version: 3.9
+      - name: run requirements file
+        run: pip install -r requirements.txt
+      - name: Deploy docs
+        # Remove the 'env:' block from this step
+        run: mkdocs gh-deploy --force
